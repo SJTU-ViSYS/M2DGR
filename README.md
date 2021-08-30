@@ -85,10 +85,15 @@ sudo apt-get install mjpegtools
 ~~~
 
 open a terminal,type roscore.
+
 open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
-### 3.2 to get renix files
+### 3.2 to get RINEX files
+[Link](https://github.com/TakahashiJinxu/ublox2rinex)
+
 ### 3.3 ROS drivers for UVC cameras 
-### 3.4 other tools
+[Link](https://github.com/TakahashiJinxu/ublox2rinex)
+### 3.4 to fetch image
+[Link](https://github.com/TakahashiJinxu/ublox2rinex)
