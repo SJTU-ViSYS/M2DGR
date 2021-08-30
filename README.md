@@ -77,7 +77,15 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[To be done](https://
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
-For rosbag users,just type 
+For rosbag users, first make image view
+~~~
+roscd image_view
+rosmake image_view
+sudo apt-get install mjpegtools
+~~~
+
+open a terminal,type roscore.
+open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
