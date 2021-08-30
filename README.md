@@ -15,6 +15,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ### 2.1 Outdoors
 ![image](https://github.com/sjtuyinjie/mypics/blob/master/outdoortraj.jpg)
+<img src="https://github.com/sjtuyinjie/mypics/blob/master/outdoortraj.jpg" width="100px">
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 gate_01|2021-07-31|16.4g|172s|dark,around gate|[To be done](https://github.com/sjtuyinjie/M2DGR)
