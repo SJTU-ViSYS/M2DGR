@@ -10,7 +10,7 @@ Here we introduce M2DGR:a new large-scale dataset collected by a ground robot wh
 keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 1.Sensor Setup
-<img src="https://github.com/sjtuyinjie/mypics/blob/master/outdoortraj.jpg" width="100px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="100px">
 ## 2.Dataset Sequences
 
 ### 2.1 Outdoors
