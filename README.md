@@ -19,8 +19,9 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ### 2.1 Outdoors
 
+<div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="500px">
-
+</div>
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -57,7 +58,9 @@ hall_03|2021-08-08|20.5g|164s|randon walk|[To be done](https://github.com/sjtuyi
 hall_04|2021-08-15|17.7g|181s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
 hall_05|2021-08-15|35.1g|402s|circle|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
+<div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="500px">
+</div>
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -67,7 +70,9 @@ lift_03|2021-08-15|22.3g|252s|lift|[To be done](https://github.com/sjtuyinjie/M2
 lift_04|2021-08-15|27.8g|299s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
 
+<div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="500px">
+</div>
 
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
@@ -82,7 +87,10 @@ room_dark_05|2021-08-15|33.0g|159s|room,dark
 room_dark_06|2021-08-15|35.6g|172s|room,dark
 
 ### 2.3 alternative indoors and outdoors
+<div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="500px">
+</div>
+
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
