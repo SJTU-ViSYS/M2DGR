@@ -78,7 +78,9 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[To be done](https://
 ## 3.Development Toolkits
 ### 3.1 to fetch images
 For rosbag users,just type 
-rosrun
+~~~
+rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
+~~~
 ### 3.2 to get renix files
 ### 3.3 ROS drivers for UVC cameras 
 ### 3.4 other tools
