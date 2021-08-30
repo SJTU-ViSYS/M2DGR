@@ -93,9 +93,10 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark
 </div>
   
 ### 2.3 alternative indoors and outdoors
+  
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="500px">
-</div>
+
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
