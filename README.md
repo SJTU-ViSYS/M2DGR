@@ -52,6 +52,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[To be done](https://github.co
 </div>
   
 ### 2.2 Indoors
+<div align=center>
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -62,8 +63,9 @@ hall_04|2021-08-15|17.7g|181s|randon walk|[To be done](https://github.com/sjtuyi
 hall_05|2021-08-15|35.1g|402s|circle|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
 <div align=center>
+
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="500px">
-</div>
+
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -73,9 +75,9 @@ lift_03|2021-08-15|22.3g|252s|lift|[To be done](https://github.com/sjtuyinjie/M2
 lift_04|2021-08-15|27.8g|299s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
 
-<div align=center>
+
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="500px">
-</div>
+
 
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
@@ -88,7 +90,8 @@ room_dark_03|2021-07-30|22.7g|116s|room,dark
 room_dark_04|2021-08-15|29.3g|143s|room,dark
 room_dark_05|2021-08-15|33.0g|159s|room,dark
 room_dark_06|2021-08-15|35.6g|172s|room,dark
-
+</div>
+  
 ### 2.3 alternative indoors and outdoors
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="500px">
@@ -99,7 +102,7 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
 door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
-
+</div>
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
