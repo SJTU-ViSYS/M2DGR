@@ -62,7 +62,7 @@ hall_03|2021-08-08|20.5g|164s|randon walk|[To be done](https://github.com/sjtuyi
 hall_04|2021-08-15|17.7g|181s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
 hall_05|2021-08-15|35.1g|402s|circle|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
-<div align=center>
+
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="500px">
 
@@ -94,7 +94,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark
   
 ### 2.3 alternative indoors and outdoors
   
-
+<div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="500px">
 
 
@@ -103,6 +103,8 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
 door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
+
+</div>
 
 
 ## 3.Development Toolkits
