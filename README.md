@@ -90,10 +90,19 @@ open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
-### 3.2 to get RINEX files
+For non-rosbag users,
+### 3.2 Calibration
+For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
+
+visit [vinsfusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
+
+use [opencv](https://opencv.org/) for Kannala Brandt model
+
+For IMU intrinsics,visit [imu_utils](https://github.com/gaowenliang/imu_utils)
+### 3.3 to get RINEX files
 [Link](https://github.com/TakahashiJinxu/ublox2rinex)
 
-### 3.3 ROS drivers for UVC cameras 
+### 3.4 ROS drivers for UVC cameras 
 [Link](https://github.com/TakahashiJinxu/ublox2rinex)
-### 3.4 to fetch image
+### 3.5 to fetch image
 [Link](https://github.com/TakahashiJinxu/ublox2rinex)
