@@ -14,8 +14,8 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 ### 2.1 Outdoors
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="800px">
-![image](https://github.com/sjtuyinjie/mypics/blob/master/outdoortraj.jpg)
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="600px">
+
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -43,6 +43,7 @@ street_09|2021-08-07|83.2g|907s|day,zigzag|[To be done](https://github.com/sjtuy
 street_010|2021-08-07|86.2g|910s|day,zigzag|[To be done](https://github.com/sjtuyinjie/M2DGR)
 walk_01|2021-08-04|21.5g|291s|day,back and fourth|[To be done](https://github.com/sjtuyinjie/M2DGR)
 ### 2.2 Indoors
+
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 hall_01|2021-08-01|29.1g|351s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
@@ -51,6 +52,7 @@ hall_03|2021-08-08|20.5g|164s|randon walk|[To be done](https://github.com/sjtuyi
 hall_04|2021-08-15|17.7g|181s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
 hall_05|2021-08-15|35.1g|402s|circle|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="600px">
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 lift_01|2021-08-04|18.4g|225s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
@@ -58,6 +60,8 @@ lift_02|2021-08-04|43.6g|488s|lift|[To be done](https://github.com/sjtuyinjie/M2
 lift_03|2021-08-15|22.3g|252s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
 lift_04|2021-08-15|27.8g|299s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
+
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="600px">
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
 room_01|2021-07-30|14.0g|72s|room,bright
@@ -71,6 +75,7 @@ room_dark_05|2021-08-15|33.0g|159s|room,dark
 room_dark_06|2021-08-15|35.6g|172s|room,dark
 
 ### 2.3 alternative indoors and outdoors
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="600px">
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
