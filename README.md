@@ -1,5 +1,7 @@
 # M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots 
-
+<div align=center>
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
+</div>
 ## Abstract:
 
   Intelligent ground robots  have significant application prospects due to their capability to fulfill special missions in complex and dangerous environments.Simultaneous Localization and Mapping (SLAM) is a critical module of robot navigation.Although the research of SLAM has achieved great progress in the past decades,it still has a long way towards mature deployment.Unfortunately, most of the existing datasets of ground robots have limited scenes and scarce categories of sensors, which restricts the development of localization algorithms for ground robots in variable and complex real-world environments,especially in darkness,fog,sharp turns.
@@ -11,14 +13,12 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 1.Sensor Setup
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="800px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="600px">
 </div>
 
 ## 2.Dataset Sequences
 
-<div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
-</div>
+
 
 ### 2.1 Outdoors
 
