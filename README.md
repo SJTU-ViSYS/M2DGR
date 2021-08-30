@@ -88,7 +88,7 @@ open a terminal,type roscore.And then open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
-For non-rosbag users,just take advantage of following script
+For non-rosbag users,just take advantage of following script  [fetch images](https://github.com/sjtuyinjie/toolkit/blob/main/fetchrgbd.py)
 ### 3.2 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [vinsfusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
@@ -103,5 +103,6 @@ For extrinsics between cameras and Lidar, visit [autoware](https://github.com/Au
 To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
 ### 3.4 ROS drivers for UVC cameras 
-[Link](https://github.com/TakahashiJinxu/ublox2rinex)
+We write a ROS driver for UVC cameras to record our thermal-infrared image. 
+[UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
 
