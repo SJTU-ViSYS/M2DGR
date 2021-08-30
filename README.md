@@ -84,13 +84,11 @@ rosmake image_view
 sudo apt-get install mjpegtools
 ~~~
 
-open a terminal,type roscore.
-
-open another,type
+open a terminal,type roscore.And then open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
-For non-rosbag users,
+For non-rosbag users,just take advantage of following script
 ### 3.2 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [vinsfusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
@@ -102,9 +100,8 @@ For extrinsics between cameras and IMU,visit [kalibr](https://github.com/ethz-as
 For extrinsics between Lidar and IMU,visit [lidar imu calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
 For extrinsics between cameras and Lidar, visit [autoware](https://github.com/Autoware-AI/autoware.ai) 
 ### 3.3 to get RINEX files
-[Link](https://github.com/TakahashiJinxu/ublox2rinex)
+To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
 ### 3.4 ROS drivers for UVC cameras 
 [Link](https://github.com/TakahashiJinxu/ublox2rinex)
-### 3.5 to fetch image
-[Link](https://github.com/TakahashiJinxu/ublox2rinex)
+
