@@ -21,7 +21,8 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="500px">
-</div>
+
+
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -48,6 +49,8 @@ street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|[To be done](https://gith
 street_09|2021-08-07|83.2g|907s|day,zigzag|[To be done](https://github.com/sjtuyinjie/M2DGR)
 street_010|2021-08-07|86.2g|910s|day,zigzag|[To be done](https://github.com/sjtuyinjie/M2DGR)
 walk_01|2021-08-04|21.5g|291s|day,back and fourth|[To be done](https://github.com/sjtuyinjie/M2DGR)
+</div>
+  
 ### 2.2 Indoors
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
