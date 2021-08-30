@@ -14,7 +14,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 ### 2.1 Outdoors
-<img src="https://github.com/sjtuyinjie/mypics/blob/master/outdoortraj.jpg" width="800px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="800px">
 ![image](https://github.com/sjtuyinjie/mypics/blob/master/outdoortraj.jpg)
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
