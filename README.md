@@ -57,8 +57,10 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * V-I Sensor:  
 `/camera/color/image_raw/compressed `,  
 `/camera/imu`
-* Event Camera:  `/dvs/events`
-* IMU:  `/handsfree/imu `
+* Event Camera:  
+`/dvs/events`，
+·/dvs_rendering/compressed·
+* IMU: `/handsfree/imu `
  
 
 ## 2.Dataset Sequences
