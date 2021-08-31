@@ -15,7 +15,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="600px">
 </div>
-**LIDAR** Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
+__LIDAR__ Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
 
 RGB Camera FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz  
 GNSS Ublox M8T, GPS/BeiDou, 1Hz  
