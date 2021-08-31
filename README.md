@@ -2,6 +2,7 @@
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 </div>
+
 ## Abstract:
 
   Intelligent ground robots  have significant application prospects due to their capability to fulfill special missions in complex and dangerous environments.Simultaneous Localization and Mapping (SLAM) is a critical module of robot navigation.Although the research of SLAM has achieved great progress in the past decades,it still has a long way towards mature deployment.Unfortunately, most of the existing datasets of ground robots have limited scenes and scarce categories of sensors, which restricts the development of localization algorithms for ground robots in variable and complex real-world environments,especially in darkness,fog,sharp turns.
@@ -12,7 +13,7 @@ Here we introduce M2DGR:a new large-scale dataset collected by a ground robot wh
 keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 1.Sensor Setup
-### 1.1.1 Sensor parameters
+### 1.1 Sensor parameters
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="600px">
 </div>
@@ -28,7 +29,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * **GNSS-IMU** Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
 * **Laser Scanner** Leica MS60, localization 1mm+1.5ppm  
 
-### 1.1.2 Rosbag Topics
+### 1.2 Rosbag Topics
 
 * LIDAR: `/velodyne_points` 
 
