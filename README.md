@@ -130,17 +130,17 @@ lift_04|2021-08-15|27.8g|299s|lift|[To be done](https://github.com/sjtuyinjie/M2
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="500px">
 
 
-Sequence Name|Collection Date|Total Size|Duration|Features
---|:--|:--:|--:|--:
-room_01|2021-07-30|14.0g|72s|room,bright
-room_02|2021-07-30|15.2g|75s|room,bright
-room_03|2021-07-30|26.1g|128s|room,bright
-room_dark_01|2021-07-30|20.2g|111s|room,dark
-room_dark_02|2021-07-30|30.3g|165s|room,dark
-room_dark_03|2021-07-30|22.7g|116s|room,dark
-room_dark_04|2021-08-15|29.3g|143s|room,dark
-room_dark_05|2021-08-15|33.0g|159s|room,dark
-room_dark_06|2021-08-15|35.6g|172s|room,dark
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+room_01|2021-07-30|14.0g|72s|room,bright|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_02|2021-07-30|15.2g|75s|room,bright|[To be done](https://github.com/sjtuyinjie/M2DGR)|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_03|2021-07-30|26.1g|128s|room,bright|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_dark_01|2021-07-30|20.2g|111s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_dark_02|2021-07-30|30.3g|165s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_dark_03|2021-07-30|22.7g|116s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_dark_04|2021-08-15|29.3g|143s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_dark_05|2021-08-15|33.0g|159s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_dark_06|2021-08-15|35.6g|172s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
 </div>
   
 ### 2.3 alternative indoors and outdoors
