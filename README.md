@@ -33,13 +33,13 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * LIDAR: `/velodyne_points` 
 
 * RGB Camera: 
-`/camera/left/image_raw/compressed `,
-`/camera/right/image_raw/compressed `,
-`/camera/third/image_raw/compressed `,
-`/camera/fourth/image_raw/compressed `,
-`/camera/fifth/image_raw/compressed `,
-`/camera/sixth/image_raw/compressed `,
-`/camera/head/image_raw/compressed `
+`/camera/left/image_raw/compressed `,  
+`/camera/right/image_raw/compressed `,  
+`/camera/third/image_raw/compressed `,  
+`/camera/fourth/image_raw/compressed `,  
+`/camera/fifth/image_raw/compressed `,  
+`/camera/sixth/image_raw/compressed `,  
+`/camera/head/image_raw/compressed `  
 * GNSS Ublox M8T:`/ublox/rxmraw ` 
 * Infrared Camera:`/thermal_image_raw ` 
 * V-I Sensor:`/camera/color/image_raw/compressed `,`/camera/imu`
