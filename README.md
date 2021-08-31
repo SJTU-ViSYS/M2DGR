@@ -70,7 +70,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="500px">
 </div>
 
 ### 2.1 Outdoors
