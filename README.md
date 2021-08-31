@@ -196,3 +196,7 @@ To make use of GNSS raw measurements, we use [Link](https://github.com/Takahashi
 We write a ROS driver for UVC cameras to record our thermal-infrared image. 
 [UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
 
+
+## 4.License
+This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us .
+
