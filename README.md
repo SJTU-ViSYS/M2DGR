@@ -15,6 +15,15 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="600px">
 </div>
+\item \textbf{LIDAR} Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.
+\item \textbf{RGB Camera} FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz,
+\item {GNSS} Ublox M8T, GPS/BeiDou, 1Hz
+\item Infrared Camera,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;
+\item RGBD Camera,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz
+\item Event Camera ,Inivation DVXplorer, 640*480,15Hz;
+\item IMU,Handsfree A9,9-axis,150Hz;
+\item GNSS-IMU Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;
+\item Laser Scanner Leica MS60, localization 1mm+1.5ppm
 
 ## 2.Dataset Sequences
 
