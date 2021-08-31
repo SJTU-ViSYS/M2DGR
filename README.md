@@ -129,7 +129,7 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 lift_01|2021-08-04|18.4g|225s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
 lift_02|2021-08-04|43.6g|488s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
 lift_03|2021-08-15|22.3g|252s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
-lift_04|2021-08-15|27.8g|299s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
+lift_04|2021-08-15|27.8g|299s|lift|[To be done](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ETrPaBIVaV1EtTVUG9effPIBK1LiJ3pGK93jAdhLZU_Pjg?e=ekVtWl)
 
 
 
