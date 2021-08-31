@@ -2,7 +2,6 @@
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
 </div>
 
 ## Abstract:
@@ -69,6 +68,10 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 
 
+<div align=center>
+
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
+</div>
 
 ### 2.1 Outdoors
 
