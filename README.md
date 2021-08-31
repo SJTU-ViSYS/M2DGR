@@ -1,6 +1,7 @@
 # M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
+  <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/dynamic.gif" width="400px">
 </div>
 
 ## Abstract:
