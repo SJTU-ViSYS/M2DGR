@@ -41,7 +41,18 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 `/camera/sixth/image_raw/compressed `,  
 `/camera/head/image_raw/compressed `  
 * GNSS Ublox M8T:  
-`/ublox/rxmraw ` 
+`/ublox/aidalm `,  
+`/ublox/aideph `,  
+`/ublox/fix `,  
+`/ublox/fix_velocity `,  
+`/ublox/monhw `,  
+`/ublox/navclock `,  
+`/ublox/navpvt `,  
+`/ublox/navsat `,  
+`/ublox/navstatus `,  
+`/ublox/rxmraw `  
+
+
 * Infrared Camera:`/thermal_image_raw ` 
 * V-I Sensor:  
 `/camera/color/image_raw/compressed `,  
