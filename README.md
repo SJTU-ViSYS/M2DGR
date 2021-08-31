@@ -69,12 +69,13 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 
 
+**At this stage we only make sequence lift04 public for test.And we will publish all the sequences at proper time.**
+
 <div align=center>
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="500px">
 </div>
 
-**At this stage we make sequence lift04 public for test.Afterwards we will publish all the sequences.**
 
 ### 2.1 Outdoors
 
