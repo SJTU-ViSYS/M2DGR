@@ -30,16 +30,17 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ### 1.1.2 Rosbag Topics
 
-* **LIDAR** `/velodyne_points` 
+* LIDAR: `/velodyne_points` 
 
-* **RGB Camera** FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz  
-* **GNSS** Ublox M8T, GPS/BeiDou, 1Hz  
-* **Infrared Camera**,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;  
-* **V-I Sensor**,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz  
-* **Event Camera** Inivation DVXplorer, 640*480,15Hz;  
-* **IMU**,Handsfree A9,9-axis,150Hz;  
-* **GNSS-IMU** Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
-* **Laser Scanner** Leica MS60, localization 1mm+1.5ppm  
+* RGB Camera: 
+~/camera/left/image_raw/compressed~
+* GNSS Ublox M8T, GPS/BeiDou, 1Hz  
+* Infrared Camera,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;  
+* V-I Sensor,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz  
+* Event Camera Inivation DVXplorer, 640*480,15Hz;  
+* IMU,Handsfree A9,9-axis,150Hz;  
+* GNSS-IMU Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
+* Laser Scanner Leica MS60, localization 1mm+1.5ppm  
 
 ## 2.Dataset Sequences
 
