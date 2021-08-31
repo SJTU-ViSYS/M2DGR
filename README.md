@@ -3,7 +3,7 @@
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 
 </div>
-<p align="center">HelloWorld</p>
+<p align="center">Sample Images</p>
 ## Abstract:
 
   Intelligent ground robots  have significant application prospects due to their capability to fulfill special missions in complex and dangerous environments.Simultaneous Localization and Mapping (SLAM) is a critical module of robot navigation.Although the research of SLAM has achieved great progress in the past decades,it still has a long way towards mature deployment.Unfortunately, most of the existing datasets of ground robots have limited scenes and scarce categories of sensors, which restricts the development of localization algorithms for ground robots in variable and complex real-world environments,especially in darkness,fog,sharp turns.
@@ -82,7 +82,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-gate_01|2021-07-31|16.4g|172s|dark,around gate|[To be done](https://github.com/sjtuyinjie/M2DGR)
+gate_01|2021-07-31|16.4g|172s|<p align="center">dark,around gate</p>|[To be done](https://github.com/sjtuyinjie/M2DGR)
 gate_02|2021-07-31|27.3g|327s|dark,loop back|[To be done](https://github.com/sjtuyinjie/M2DGR)
 gate_03|2021-08-04|21.9g|283s|day|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
