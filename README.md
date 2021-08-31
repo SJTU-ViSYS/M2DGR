@@ -33,15 +33,19 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * LIDAR: `/velodyne_points` 
 
 * RGB Camera: 
-`/camera/left/image_raw/compressed `
-`/camera/right/image_raw/compressed `
-* GNSS Ublox M8T, GPS/BeiDou, 1Hz  
-* Infrared Camera,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;  
-* V-I Sensor,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz  
-* Event Camera Inivation DVXplorer, 640*480,15Hz;  
-* IMU,Handsfree A9,9-axis,150Hz;  
-* GNSS-IMU Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
-* Laser Scanner Leica MS60, localization 1mm+1.5ppm  
+`/camera/left/image_raw/compressed `,
+`/camera/right/image_raw/compressed `,
+`/camera/third/image_raw/compressed `,
+`/camera/fourth/image_raw/compressed `,
+`/camera/fifth/image_raw/compressed `,
+`/camera/sixth/image_raw/compressed `,
+`/camera/head/image_raw/compressed `
+* GNSS Ublox M8T:`/ublox/rxmraw ` 
+* Infrared Camera:`/thermal_image_raw ` 
+* V-I Sensor:`/camera/color/image_raw/compressed `,`/camera/imu`
+* Event Camera:`/dvs/events`
+* IMU:`/handsfree/imu `
+ 
 
 ## 2.Dataset Sequences
 
