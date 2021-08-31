@@ -3,7 +3,7 @@
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 
 </div>
-
+<p align="center">HelloWorld</p>
 ## Abstract:
 
   Intelligent ground robots  have significant application prospects due to their capability to fulfill special missions in complex and dangerous environments.Simultaneous Localization and Mapping (SLAM) is a critical module of robot navigation.Although the research of SLAM has achieved great progress in the past decades,it still has a long way towards mature deployment.Unfortunately, most of the existing datasets of ground robots have limited scenes and scarce categories of sensors, which restricts the development of localization algorithms for ground robots in variable and complex real-world environments,especially in darkness,fog,sharp turns.
