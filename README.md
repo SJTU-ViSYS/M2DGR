@@ -82,7 +82,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-gate_01|2021-07-31|16.4g|172s|<p align="center">dark,around gate</p>|[To be done](https://github.com/sjtuyinjie/M2DGR)
+gate_01|2021-07-31|16.4g|172s|dark,around gate|[To be done](https://github.com/sjtuyinjie/M2DGR)
 gate_02|2021-07-31|27.3g|327s|dark,loop back|[To be done](https://github.com/sjtuyinjie/M2DGR)
 gate_03|2021-08-04|21.9g|283s|day|[To be done](https://github.com/sjtuyinjie/M2DGR)
 
