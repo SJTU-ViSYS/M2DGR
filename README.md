@@ -74,6 +74,8 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="500px">
 </div>
 
+**At this stage we make sequence lift04 public for test.Afterwards we will publish all the sequences.**
+
 ### 2.1 Outdoors
 
 <div align=center>
