@@ -59,7 +59,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 `/camera/imu`
 * Event Camera:  
 `/dvs/events`，
-·/dvs_rendering/compressed·
+`/dvs_rendering/compressed`
 * IMU: `/handsfree/imu `
  
 
