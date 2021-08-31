@@ -33,7 +33,8 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * LIDAR: `/velodyne_points` 
 
 * RGB Camera: 
-~/camera/left/image_raw/compressed~
+`/camera/left/image_raw/compressed `
+`/camera/right/image_raw/compressed `
 * GNSS Ublox M8T, GPS/BeiDou, 1Hz  
 * Infrared Camera,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;  
 * V-I Sensor,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz  
