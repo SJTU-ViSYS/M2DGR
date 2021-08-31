@@ -161,7 +161,7 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[To be done](https://
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
-For rosbag users, first make image view
+* For rosbag users, first make image view
 ~~~
 roscd image_view
 rosmake image_view
@@ -172,7 +172,7 @@ open a terminal,type roscore.And then open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
-For non-rosbag users,just take advantage of following script  [fetch images](https://github.com/sjtuyinjie/toolkit/blob/main/fetchrgbd.py)
+* For non-rosbag users,just take advantage of following script  [fetch images](https://github.com/sjtuyinjie/toolkit/blob/main/fetchrgbd.py)
 ### 3.2 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [vinsfusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
