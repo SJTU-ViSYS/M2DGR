@@ -12,11 +12,25 @@ Here we introduce M2DGR:a new large-scale dataset collected by a ground robot wh
 keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 1.Sensor Setup
+### 1.1.1 Sensor parameters
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="600px">
 </div>
 
 * **LIDAR** Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
+
+* **RGB Camera** FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz  
+* **GNSS** Ublox M8T, GPS/BeiDou, 1Hz  
+* **Infrared Camera**,PLUG 617,640*512,90.2 H-FOV,70.6 V-FOV,25Hz;  
+* **V-I Sensor**,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 200Hz  
+* **Event Camera** Inivation DVXplorer, 640*480,15Hz;  
+* **IMU**,Handsfree A9,9-axis,150Hz;  
+* **GNSS-IMU** Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
+* **Laser Scanner** Leica MS60, localization 1mm+1.5ppm  
+
+### 1.1.2 Rosbag Topics
+
+* **LIDAR** '/velodyne_points' 
 
 * **RGB Camera** FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz  
 * **GNSS** Ublox M8T, GPS/BeiDou, 1Hz  
