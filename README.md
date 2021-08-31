@@ -23,7 +23,7 @@ V-I Sensor,Realsense d435i,RGB/Depth 640*480,69H-FOV,42.5V-FOV,15Hz;IMU 6-axix, 
 Event Camera ,Inivation DVXplorer, 640*480,15Hz;  
 IMU,Handsfree A9,9-axis,150Hz;  
 GNSS-IMU Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
-Laser Scanner Leica MS60, localization 1mm+1.5ppm
+Laser Scanner Leica MS60, localization 1mm+1.5ppm  
 
 ## 2.Dataset Sequences
 
