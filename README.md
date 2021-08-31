@@ -30,7 +30,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ### 1.1.2 Rosbag Topics
 
-* **LIDAR** '/velodyne_points' 
+* **LIDAR** \/velodyne_points\ 
 
 * **RGB Camera** FLIR Pointgrey CM3-U3-13Y3C-CS,fish-eye lens,1280*1024,190 HFOV,190 V-FOV, 15 Hz  
 * **GNSS** Ublox M8T, GPS/BeiDou, 1Hz  
