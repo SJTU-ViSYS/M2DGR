@@ -73,7 +73,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="500px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
 </div>
 
 <p align="center">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
@@ -81,7 +81,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ### 2.1 Indoors
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="500px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="400px">
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
@@ -107,7 +107,7 @@ hall_05|2021-08-15|35.1g|402s|circle|To be done
 
 
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="500px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="400px">
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
@@ -128,7 +128,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|To be done
 ### 2.2 Outdoors
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="500px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="400px">
 
 
 
@@ -164,7 +164,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|To be done
 ### 2.3 alternative indoors and outdoors
   
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="500px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="400px">
 
 
 
