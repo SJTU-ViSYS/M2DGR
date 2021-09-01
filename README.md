@@ -85,7 +85,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <p align="left">Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
   
-Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift
+
   
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
@@ -113,7 +113,8 @@ hall_05|2021-08-15|35.1g|402s|circle|To be done
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="400px">
 
-
+<p align="left">Room Sequences:under a Motion-capture system with twelve cameras.</p>
+  
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 room_01|2021-07-30|14.0g|72s|room,bright|To be done
@@ -133,7 +134,8 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|To be done
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="400px">
-
+<p align="left">Outdoor Sequences:all trajectories are mapped in different colors.</p>
+  
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
@@ -169,7 +171,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|To be done
   
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="400px">
-
+<p align="left">Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
