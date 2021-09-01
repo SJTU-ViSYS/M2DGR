@@ -69,7 +69,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 
 
-**At this stage we only make sequence lift04 public for test.And we will publish all the sequences at proper time.**
+**At this stage we only upload sequence lift04 for test.And we will publish all the sequences at proper time.**
 
 <div align=center>
 
@@ -87,29 +87,29 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-gate_01|2021-07-31|16.4g|172s|dark,around gate|[To be done](https://github.com/sjtuyinjie/M2DGR)
-gate_02|2021-07-31|27.3g|327s|dark,loop back|[To be done](https://github.com/sjtuyinjie/M2DGR)
-gate_03|2021-08-04|21.9g|283s|day|[To be done](https://github.com/sjtuyinjie/M2DGR)
+gate_01|2021-07-31|16.4g|172s|dark,around gate|To be done
+gate_02|2021-07-31|27.3g|327s|dark,loop back|To be done
+gate_03|2021-08-04|21.9g|283s|day|To be done
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-rotation_01|2021-08-03|23.3g|234s|rotation,figure of 8|[To be done](https://github.com/sjtuyinjie/M2DGR)
-rotation_02|2021-08-07|27.3g|244s|rotation,figure of 8|[To be done](https://github.com/sjtuyinjie/M2DGR)
+rotation_01|2021-08-03|23.3g|234s|rotation,figure of 8|[To be done]To be done
+rotation_02|2021-08-07|27.3g|244s|rotation,figure of 8|[To be done]To be done
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_02|2021-08-03|83.2g|1227s|day,long-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_05|2021-08-04|27.4g|469s|night,staight line|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_06|2021-08-04|35.0g|494s|night,one turn|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_07|2021-08-06|77.2g|929s|dawn,zigzag,sharp turns|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_09|2021-08-07|83.2g|907s|day,zigzag|[To be done](https://github.com/sjtuyinjie/M2DGR)
-street_010|2021-08-07|86.2g|910s|day,zigzag|[To be done](https://github.com/sjtuyinjie/M2DGR)
-walk_01|2021-08-04|21.5g|291s|day,back and fourth|[To be done](https://github.com/sjtuyinjie/M2DGR)
+street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|To be done
+street_02|2021-08-03|83.2g|1227s|day,long-term|To be done
+street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|To be done
+street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|To be done
+street_05|2021-08-04|27.4g|469s|night,staight line|To be done
+street_06|2021-08-04|35.0g|494s|night,one turn|To be done
+street_07|2021-08-06|77.2g|929s|dawn,zigzag,sharp turns|To be done
+street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|To be done
+street_09|2021-08-07|83.2g|907s|day,zigzag|To be done
+street_010|2021-08-07|86.2g|910s|day,zigzag|To be done
+walk_01|2021-08-04|21.5g|291s|day,back and fourth|To be done
 </div>
   
 ### 2.2 Indoors
@@ -117,11 +117,11 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[To be done](https://github.co
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-hall_01|2021-08-01|29.1g|351s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
-hall_02|2021-08-08|15.0g|128s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
-hall_03|2021-08-08|20.5g|164s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
-hall_04|2021-08-15|17.7g|181s|randon walk|[To be done](https://github.com/sjtuyinjie/M2DGR)
-hall_05|2021-08-15|35.1g|402s|circle|[To be done](https://github.com/sjtuyinjie/M2DGR)
+hall_01|2021-08-01|29.1g|351s|randon walk|To be done
+hall_02|2021-08-08|15.0g|128s|randon walk|To be done
+hall_03|2021-08-08|20.5g|164s|randon walk|To be done
+hall_04|2021-08-15|17.7g|181s|randon walk|To be done
+hall_05|2021-08-15|35.1g|402s|circle|To be done
 
 
 
@@ -130,9 +130,9 @@ hall_05|2021-08-15|35.1g|402s|circle|[To be done](https://github.com/sjtuyinjie/
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-lift_01|2021-08-04|18.4g|225s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
-lift_02|2021-08-04|43.6g|488s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
-lift_03|2021-08-15|22.3g|252s|lift|[To be done](https://github.com/sjtuyinjie/M2DGR)
+lift_01|2021-08-04|18.4g|225s|lift|To be done
+lift_02|2021-08-04|43.6g|488s|lift|To be done
+lift_03|2021-08-15|22.3g|252s|lift|To be done
 lift_04|2021-08-15|27.8g|299s|lift|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ETrPaBIVaV1EtTVUG9effPIBK1LiJ3pGK93jAdhLZU_Pjg?e=ekVtWl)
 
 
@@ -142,15 +142,15 @@ lift_04|2021-08-15|27.8g|299s|lift|[Download Link](https://sjtueducn-my.sharepoi
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-room_01|2021-07-30|14.0g|72s|room,bright|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_02|2021-07-30|15.2g|75s|room,bright|[To be done](https://github.com/sjtuyinjie/M2DGR)|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_03|2021-07-30|26.1g|128s|room,bright|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_dark_01|2021-07-30|20.2g|111s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_dark_02|2021-07-30|30.3g|165s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_dark_03|2021-07-30|22.7g|116s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_dark_04|2021-08-15|29.3g|143s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_dark_05|2021-08-15|33.0g|159s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
-room_dark_06|2021-08-15|35.6g|172s|room,dark|[To be done](https://github.com/sjtuyinjie/M2DGR)
+room_01|2021-07-30|14.0g|72s|room,bright|To be done
+room_02|2021-07-30|15.2g|75s|room,bright|To be done|To be done
+room_03|2021-07-30|26.1g|128s|room,bright|To be done
+room_dark_01|2021-07-30|20.2g|111s|room,dark|To be done
+room_dark_02|2021-07-30|30.3g|165s|room,dark|To be done
+room_dark_03|2021-07-30|22.7g|116s|room,dark|To be done
+room_dark_04|2021-08-15|29.3g|143s|room,dark|To be done
+room_dark_05|2021-08-15|33.0g|159s|room,dark|To be done
+room_dark_06|2021-08-15|35.6g|172s|room,dark|To be done
 </div>
   
 ### 2.3 alternative indoors and outdoors
@@ -162,8 +162,8 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[To be done](https://github.com/sjt
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
-door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[To be done](https://github.com/sjtuyinjie/M2DGR)
+door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|To be done
+door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|To be done
 
 </div>
 
