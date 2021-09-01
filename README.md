@@ -94,8 +94,8 @@ gate_03|2021-08-04|21.9g|283s|day|To be done
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-rotation_01|2021-08-03|23.3g|234s|rotation,figure of 8|[To be done]To be done
-rotation_02|2021-08-07|27.3g|244s|rotation,figure of 8|[To be done]To be done
+rotation_01|2021-08-03|23.3g|234s|rotation,figure of 8|To be done
+rotation_02|2021-08-07|27.3g|244s|rotation,figure of 8|To be done
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
