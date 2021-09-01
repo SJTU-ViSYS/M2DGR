@@ -17,7 +17,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 1.Sensor Setup
 ### 1.1 Sensor parameters
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="600px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="400px">
 </div>
 
 * **LIDAR** Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
