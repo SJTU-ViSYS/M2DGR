@@ -76,13 +76,15 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
 </div>
 
-<p align="center">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
+<p align="left">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
 
 ### 2.1 Indoors
 <div align=center>
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="400px">
 
+<p align="left">Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
+  
 Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift
   
 
