@@ -76,6 +76,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="500px">
 </div>
 
+<p align="center">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
 
 ### 2.1 Outdoors
 
