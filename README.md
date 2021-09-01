@@ -83,6 +83,8 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="400px">
 
+Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift
+  
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
