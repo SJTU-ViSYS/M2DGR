@@ -78,7 +78,54 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <p align="center">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
 
-### 2.1 Outdoors
+### 2.1 Indoors
+<div align=center>
+
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="500px">
+
+
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+lift_01|2021-08-04|18.4g|225s|lift|To be done
+lift_02|2021-08-04|43.6g|488s|lift|To be done
+lift_03|2021-08-15|22.3g|252s|lift|To be done
+lift_04|2021-08-15|27.8g|299s|lift|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ETrPaBIVaV1EtTVUG9effPIBK1LiJ3pGK93jAdhLZU_Pjg?e=ekVtWl)
+
+  
+  
+  
+
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+hall_01|2021-08-01|29.1g|351s|randon walk|To be done
+hall_02|2021-08-08|15.0g|128s|randon walk|To be done
+hall_03|2021-08-08|20.5g|164s|randon walk|To be done
+hall_04|2021-08-15|17.7g|181s|randon walk|To be done
+hall_05|2021-08-15|35.1g|402s|circle|To be done
+
+
+
+
+
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="500px">
+
+
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+room_01|2021-07-30|14.0g|72s|room,bright|To be done
+room_02|2021-07-30|15.2g|75s|room,bright|To be done|To be done
+room_03|2021-07-30|26.1g|128s|room,bright|To be done
+room_dark_01|2021-07-30|20.2g|111s|room,dark|To be done
+room_dark_02|2021-07-30|30.3g|165s|room,dark|To be done
+room_dark_03|2021-07-30|22.7g|116s|room,dark|To be done
+room_dark_04|2021-08-15|29.3g|143s|room,dark|To be done
+room_dark_05|2021-08-15|33.0g|159s|room,dark|To be done
+room_dark_06|2021-08-15|35.6g|172s|room,dark|To be done
+</div>
+
+
+
+### 2.2 Outdoors
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="500px">
@@ -112,46 +159,7 @@ street_010|2021-08-07|86.2g|910s|day,zigzag|To be done
 walk_01|2021-08-04|21.5g|291s|day,back and fourth|To be done
 </div>
   
-### 2.2 Indoors
-<div align=center>
 
-Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
---|:--|:--:|--:|--:|--:
-hall_01|2021-08-01|29.1g|351s|randon walk|To be done
-hall_02|2021-08-08|15.0g|128s|randon walk|To be done
-hall_03|2021-08-08|20.5g|164s|randon walk|To be done
-hall_04|2021-08-15|17.7g|181s|randon walk|To be done
-hall_05|2021-08-15|35.1g|402s|circle|To be done
-
-
-
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="500px">
-
-
-Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
---|:--|:--:|--:|--:|--:
-lift_01|2021-08-04|18.4g|225s|lift|To be done
-lift_02|2021-08-04|43.6g|488s|lift|To be done
-lift_03|2021-08-15|22.3g|252s|lift|To be done
-lift_04|2021-08-15|27.8g|299s|lift|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ETrPaBIVaV1EtTVUG9effPIBK1LiJ3pGK93jAdhLZU_Pjg?e=ekVtWl)
-
-
-
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="500px">
-
-
-Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
---|:--|:--:|--:|--:|--:
-room_01|2021-07-30|14.0g|72s|room,bright|To be done
-room_02|2021-07-30|15.2g|75s|room,bright|To be done|To be done
-room_03|2021-07-30|26.1g|128s|room,bright|To be done
-room_dark_01|2021-07-30|20.2g|111s|room,dark|To be done
-room_dark_02|2021-07-30|30.3g|165s|room,dark|To be done
-room_dark_03|2021-07-30|22.7g|116s|room,dark|To be done
-room_dark_04|2021-08-15|29.3g|143s|room,dark|To be done
-room_dark_05|2021-08-15|33.0g|159s|room,dark|To be done
-room_dark_06|2021-08-15|35.6g|172s|room,dark|To be done
-</div>
   
 ### 2.3 alternative indoors and outdoors
   
