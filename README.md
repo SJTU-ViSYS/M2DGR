@@ -220,5 +220,5 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 
 ## 4.License
-This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us .
+This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us for further communication.
 
