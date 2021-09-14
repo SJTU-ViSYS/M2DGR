@@ -12,12 +12,14 @@ Here we introduce M2DGR:a new large-scale dataset collected by a ground robot wh
 
   Based on M2DGR, we evaluate the performance of a few state-of-the-art of SLAM algorithms in a few real-world environments, and analyze the scenarios where ground robots are not robust to.For the benefit of the research community,we make the dataset and evaluation results public.Our dataset,development toolkits and more infomation are now available through the link in the footnote.
 
-keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
+Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## Main Contributions:
 * We collected long-term challenging sequences for ground robots both indoors and outdoors with a complete sensor suite, which includes six surround-view fish-eye cameras, a sky-pointing fish-eye camera, a perspective color camera, an event camera, an infrared camera, a 32-beam LIDAR, two GNSS receivers, and two IMUs. To our knowledge, this is the first SLAM dataset focusing on ground robot navigation with such rich sensory information.
 * The forward-looking infrared camera and event camera enable researchers to develop initiative methods to address the challenges of dark and highly dynamic scenes. Furthermore, a Ublox M8T is used to receive GNSS raw signals outdoors, and a fish-eye camera is used to capture the sky view. With sky image information, it is possible to detect the number of visible satellites via image segmentation, thus monitoring the quality of real-time GNSS signals. Therefore, our dataset can support SLAM research relevant to GNSS signals.
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
+
+
 
 
 ## 1.Sensor Setup
