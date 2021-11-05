@@ -81,7 +81,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 
 
-**At this stage we only upload sequence lift04 for test.And we will publish all the sequences at proper time.**
+**We make public ALL THE SEQUENCES now.**
 
 <div align=center>
 
@@ -102,9 +102,9 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-lift_01|2021-08-04|18.4g|225s|lift|To be uploaded
-lift_02|2021-08-04|43.6g|488s|lift|To be uploaded
-lift_03|2021-08-15|22.3g|252s|lift|To be uploaded
+lift_01|2021-08-04|18.4g|225s|lift|[Download Link]()
+lift_02|2021-08-04|43.6g|488s|lift|[Download Link]()
+lift_03|2021-08-15|22.3g|252s|lift|[Download Link]()
 lift_04|2021-08-15|27.8g|299s|lift|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ETrPaBIVaV1EtTVUG9effPIBK1LiJ3pGK93jAdhLZU_Pjg?e=ekVtWl)
 
   
@@ -113,11 +113,11 @@ lift_04|2021-08-15|27.8g|299s|lift|[Download Link](https://sjtueducn-my.sharepoi
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-hall_01|2021-08-01|29.1g|351s|randon walk|To be uploaded
-hall_02|2021-08-08|15.0g|128s|randon walk|To be uploaded
-hall_03|2021-08-08|20.5g|164s|randon walk|To be uploaded
-hall_04|2021-08-15|17.7g|181s|randon walk|To be uploaded
-hall_05|2021-08-15|35.1g|402s|circle|To be uploaded
+hall_01|2021-08-01|29.1g|351s|randon walk|[Download Link]()
+hall_02|2021-08-08|15.0g|128s|randon walk|[Download Link]()
+hall_03|2021-08-08|20.5g|164s|randon walk|[Download Link]()
+hall_04|2021-08-15|17.7g|181s|randon walk|[Download Link]()
+hall_05|2021-08-15|35.1g|402s|circle|[Download Link]()
 
 
 
@@ -129,9 +129,9 @@ hall_05|2021-08-15|35.1g|402s|circle|To be uploaded
   
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-room_01|2021-07-30|14.0g|72s|room,bright|To be uploaded
-room_02|2021-07-30|15.2g|75s|room,bright|To be uploaded|To be uploaded
-room_03|2021-07-30|26.1g|128s|room,bright|To be uploaded
+room_01|2021-07-30|14.0g|72s|room,bright|[Download Link]()
+room_02|2021-07-30|15.2g|75s|room,bright|[Download Link]()
+room_03|2021-07-30|26.1g|128s|room,bright|[Download Link]()
 room_dark_01|2021-07-30|20.2g|111s|room,dark|To be uploaded
 room_dark_02|2021-07-30|30.3g|165s|room,dark|To be uploaded
 room_dark_03|2021-07-30|22.7g|116s|room,dark|To be uploaded
