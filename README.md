@@ -81,7 +81,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 
 
-**We make public ALL THE SEQUENCES now.**
+**We make public ALL THE SEQUENCES with their GT now.**
 
 <div align=center>
 
