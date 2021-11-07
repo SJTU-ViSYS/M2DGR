@@ -214,7 +214,7 @@ rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:
 * For non-rosbag users,just take advantage of following script  [fetch images](https://github.com/sjtuyinjie/toolkit/blob/main/fetchrgbd.py)
 
 ### 3.2 Evaluation
-We use open-source tool evo for evalutation.
+We use open-source tool [evo](evo_ape tum street_07.txt your_result.txt -vap) for evalutation.
 To install evo,type
 ~~~
 pip install evo --upgrade --no-binary evo
