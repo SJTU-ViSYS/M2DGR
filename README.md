@@ -212,7 +212,27 @@ open a terminal,type roscore.And then open another,type
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
 * For non-rosbag users,just take advantage of following script  [fetch images](https://github.com/sjtuyinjie/toolkit/blob/main/fetchrgbd.py)
-### 3.2 Calibration
+
+### 3.2 Evaluation
+We use open-source tool evo for evalutation.
+To install evo,type
+~~~
+pip install evo --upgrade --no-binary evo
+~~~
+To evaluate visual SLAM,type
+~~~
+evo_ape tum street_07.txt your_result.txt -vaps
+~~~
+To evaluate LIDAR SLAM,type
+~~~
+evo_ape tum street_07.txt your_result.txt -vap
+~~~
+To test GNSS based methods,type
+~~~
+evo_ape tum street_07.txt your_result.txt -vp
+~~~
+
+### 3.3 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [vinsfusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
 use [opencv](https://opencv.org/) for Kannala Brandt model
@@ -222,10 +242,10 @@ For IMU intrinsics,visit [imu_utils](https://github.com/gaowenliang/imu_utils)
 For extrinsics between cameras and IMU,visit [kalibr](https://github.com/ethz-asl/kalibr)
 For extrinsics between Lidar and IMU,visit [lidar imu calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
 For extrinsics between cameras and Lidar, visit [autoware](https://github.com/Autoware-AI/autoware.ai) 
-### 3.3 to get RINEX files
+### 3.4 to get RINEX files
 To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
-### 3.4 ROS drivers for UVC cameras 
+### 3.5 ROS drivers for UVC cameras 
 We write a ROS driver for UVC cameras to record our thermal-infrared image. 
 [UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
 
