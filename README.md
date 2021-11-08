@@ -211,7 +211,7 @@ open a terminal,type roscore.And then open another,type
 ~~~
 rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:=/camera/color/image_raw respawn="true"
 ~~~
-* For non-rosbag users,just take advantage of following script  [export_tum](),[export_euroc]() and [get_csv]() to get data in formats of Tum or EuRoC.
+* For non-rosbag users,just take advantage of following script  [export_tum](https://github.com/sjtuyinjie/toolkit/blob/main/export_tum.py),[export_euroc](https://github.com/sjtuyinjie/toolkit/blob/main/export_euroc.py) and [get_csv](https://github.com/sjtuyinjie/toolkit/blob/main/img2csv.py) to get data in formats of Tum or EuRoC.
 
 ### 3.2 Evaluation
 We use open-source tool [evo](https://github.com/MichaelGrupp/evo) for evalutation.
