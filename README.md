@@ -90,6 +90,8 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 <p align="left">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
 
+
+An overview of M2DGR is given in the table below:
 Scenario|Street|Rotation|Gate|Walk|Hall|Door|Lift|Room|Roomdark|TOTAL
 --|:--|:--:|--:|--:|--:|--:|--:|--:|--:|--:
 Number | 10|2|3|1|5|2|4|3|6|36
