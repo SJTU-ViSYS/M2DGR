@@ -52,7 +52,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <p align="left">Top Layer of GAEA ROBOT.</p>
 
 
-
+All the sensors and track devices and their most important parameters are listed as below:
 
 * **LIDAR** Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
 
@@ -64,6 +64,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * **IMU**,Handsfree A9,9-axis,150Hz;  
 * **GNSS-IMU** Xsens Mti 680G. GNSS-RTK,localization precision 2cm,100Hz;IMU 9-axis,100 Hz;  
 * **Laser Scanner** Leica MS60, localization 1mm+1.5ppm  
+* **Motion-capture System** Vicon Vero 2.2, localization accuracy 1mm, 50 Hz;
 
 ### 1.2 Rosbag Topics
 
