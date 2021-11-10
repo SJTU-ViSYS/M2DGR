@@ -23,7 +23,9 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 
 ## 1.Sensor Setup
-### 1.1 Sensor parameters
+### 1.1 Acquisition Platform
+Physical drawings and schematics of the ground robot is given below:
+
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="400px">
 </div>
@@ -52,6 +54,10 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <p align="center">Top Layer of GAEA ROBOT.</p>
 
 
+
+
+### 1.2 Sensor parameters
+
 All the sensors and track devices and their most important parameters are listed as below:
 
 * **LIDAR** Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
@@ -66,7 +72,7 @@ All the sensors and track devices and their most important parameters are listed
 * **Laser Scanner** Leica MS60, localization 1mm+1.5ppm  
 * **Motion-capture System** Vicon Vero 2.2, localization accuracy 1mm, 50 Hz;
 
-### 1.2 Rosbag Topics
+The rostopics of our rosbag sequences are listed as follows:
 
 * LIDAR: `/velodyne_points` 
 
