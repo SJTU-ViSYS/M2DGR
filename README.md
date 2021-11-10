@@ -275,13 +275,13 @@ evo_ape tum street_07.txt your_result.txt -vp
 
 ### 3.3 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
-visit [vinsfusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
-use [opencv](https://opencv.org/) for Kannala Brandt model
+visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
+use [Opencv](https://opencv.org/) for Kannala Brandt model
 
-For IMU intrinsics,visit [imu_utils](https://github.com/gaowenliang/imu_utils)
+For IMU intrinsics,visit [Imu_utils](https://github.com/gaowenliang/imu_utils)
 
-For extrinsics between cameras and IMU,visit [kalibr](https://github.com/ethz-asl/kalibr)
-For extrinsics between Lidar and IMU,visit [lidar imu calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
+For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-asl/kalibr)
+For extrinsics between Lidar and IMU,visit [Lidar_IMU_Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
 For extrinsics between cameras and Lidar, visit [autoware](https://github.com/Autoware-AI/autoware.ai) 
 ### 3.4 Getting RINEX files
 For GNSS based methods like [RTKLIB](http://www.rtklib.com/),we usually need to get data in the format of RINEX. To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
