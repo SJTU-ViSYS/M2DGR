@@ -38,19 +38,15 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <p align="left">Side View of GAEA ROBOT.</p>
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/mid_layer.png" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/mid_layer.png" width="400px">
 </div>
 
 <p align="left">Middle Layer of GAEA ROBOT.</p>
 
-<div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/side_view.png" width="400px">
-</div>
 
-<p align="left">Side View of GAEA ROBOT.</p>
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/top_layer.png" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/top_layer.png" width="400px">
 </div>
 
 <p align="left">Top Layer of GAEA ROBOT.</p>
