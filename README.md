@@ -16,7 +16,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## Main Contributions:
 * We collected long-term challenging sequences for ground robots both indoors and outdoors with a complete sensor suite, which includes six surround-view fish-eye cameras, a sky-pointing fish-eye camera, a perspective color camera, an event camera, an infrared camera, a 32-beam LIDAR, two GNSS receivers, and two IMUs. To our knowledge, this is the first SLAM dataset focusing on ground robot navigation with such rich sensory information.
-* The forward-looking infrared camera and event camera enable researchers to develop initiative methods to address the challenges of dark and highly dynamic scenes. Furthermore, a Ublox M8T is used to receive GNSS raw signals outdoors, and a fish-eye camera is used to capture the sky view. With sky image information, it is possible to detect the number of visible satellites via image segmentation, thus monitoring the quality of real-time GNSS signals. Therefore, our dataset can support SLAM research relevant to GNSS signals.
+* We recorded trajectories in a few challenging scenarios like lifts, complete darkness, which can easily fail existing localization solutions. These situations are commonly faced in ground robot applications, while they are seldom discussed in previous datasets.
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
 
