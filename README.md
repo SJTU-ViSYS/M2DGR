@@ -37,13 +37,13 @@ Physical drawings and schematics of the ground robot is given below. The unit of
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/side_view.png" width="400px">
 </div>
 
-<p align="center">Side View of GAEA ROBOT.</p>
+<p align="center">Side View of GAEA ROBOT. Unit: cm</p>
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/mid_layer.png" width="400px">
 </div>
 
-<p align="center">Middle Layer of GAEA ROBOT.</p>
+<p align="center">Middle Layer of GAEA ROBOT. Unit: cm</p>
 
 
 
@@ -51,7 +51,7 @@ Physical drawings and schematics of the ground robot is given below. The unit of
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/top_layer.png" width="400px">
 </div>
 
-<p align="center">Top Layer of GAEA ROBOT.</p>
+<p align="center">Top Layer of GAEA ROBOT. Unit: cm</p>
 
 
 
