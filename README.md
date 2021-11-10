@@ -31,6 +31,32 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <p align="left">The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
 
 
+<div align=center>
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/side_view.png" width="400px">
+</div>
+
+<p align="left">Side View of GAEA ROBOT.</p>
+
+<div align=center>
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/mid_layer.png" width="400px">
+</div>
+
+<p align="left">Middle Layer of GAEA ROBOT.</p>
+
+<div align=center>
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/side_view.png" width="400px">
+</div>
+
+<p align="left">Side View of GAEA ROBOT.</p>
+
+<div align=center>
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/top_layer.png" width="400px">
+</div>
+
+<p align="left">Top Layer of GAEA ROBOT.</p>
+
+
+
 
 * **LIDAR** Velodyne VLP-32C, 360 Horizontal Field of View (FOV),-30 to +10 vertical FOV,10Hz,Max Range 200 m,Range Resolution 3 cm, Horizontal Angular Resolution 0.2°.  
 
