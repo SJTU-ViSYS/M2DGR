@@ -3,7 +3,7 @@
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
 
 </div>
-<p align="center">Sample Images</p>
+<p align="center">Figure 1. Sample Images</p>
 
 ## Abstract:
 
@@ -30,20 +30,20 @@ Physical drawings and schematics of the ground robot is given below. The unit of
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="400px">
 </div>
 
-<p align="left">The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
+<p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
 
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/side_view.png" width="400px">
 </div>
 
-<p align="center">Side View of GAEA ROBOT. Unit: cm</p>
+<p align="center">Figure 3. Side View of GAEA ROBOT. Unit: cm</p>
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/mid_layer.png" width="400px">
 </div>
 
-<p align="center">Middle Layer of GAEA ROBOT. Unit: cm</p>
+<p align="center">Figure 4. Middle Layer of GAEA ROBOT. Unit: cm</p>
 
 
 
@@ -51,7 +51,7 @@ Physical drawings and schematics of the ground robot is given below. The unit of
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/top_layer.png" width="400px">
 </div>
 
-<p align="center">Top Layer of GAEA ROBOT. Unit: cm</p>
+<p align="center">Figure 5. Top Layer of GAEA ROBOT. Unit: cm</p>
 
 
 
@@ -117,7 +117,7 @@ The rostopics of our rosbag sequences are listed as follows:
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
 </div>
 
-<p align="left">A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
+<p align="left">Figure 6. A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
 
 
 An overview of M2DGR is given in the table below:
@@ -135,7 +135,7 @@ Ground Truth  |RTK/INS |RTK/INS |RTK/INS |RTK/INS |Leica |Leica |Leica |Mocap|Mo
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="400px">
-<p align="center">Outdoor Sequences:all trajectories are mapped in different colors.</p>
+<p align="center">Figure 7. Outdoor Sequences:all trajectories are mapped in different colors.</p>
   
 
 
@@ -172,7 +172,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://sjtueducn-my.
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="400px">
 
-<p align="left">Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
+<p align="left">Figure 8. Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
   
 
   
@@ -202,7 +202,7 @@ hall_05|2021-08-15|35.1g|402s|circle|[Rosbag](https://sjtueducn-my.sharepoint.co
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="400px">
 
-<p align="center">Room Sequences:under a Motion-capture system with twelve cameras.</p>
+<p align="center">Figure 9. Room Sequences:under a Motion-capture system with twelve cameras.</p>
   
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
@@ -227,7 +227,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://sjtueducn-my.share
   
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="400px">
-<p align="center">Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
+<p align="center">Figure 10. Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
@@ -240,7 +240,7 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://sjtu
 
 
 ## 3.Development Toolkits
-### 3.1 to fetch images
+### 3.1 Fetching Images
 * For rosbag users, first make image view
 ~~~
 roscd image_view
@@ -283,7 +283,7 @@ For IMU intrinsics,visit [imu_utils](https://github.com/gaowenliang/imu_utils)
 For extrinsics between cameras and IMU,visit [kalibr](https://github.com/ethz-asl/kalibr)
 For extrinsics between Lidar and IMU,visit [lidar imu calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
 For extrinsics between cameras and Lidar, visit [autoware](https://github.com/Autoware-AI/autoware.ai) 
-### 3.4 to get RINEX files
+### 3.4 Getting RINEX files
 For GNSS based methods like [RTKLIB](http://www.rtklib.com/),we usually need to get data in the format of RINEX. To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
 ### 3.5 ROS drivers for UVC cameras 
