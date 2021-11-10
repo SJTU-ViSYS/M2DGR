@@ -35,13 +35,13 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/side_view.png" width="400px">
 </div>
 
-<p align="left">Side View of GAEA ROBOT.</p>
+<p align="center">Side View of GAEA ROBOT.</p>
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/mid_layer.png" width="400px">
 </div>
 
-<p align="left">Middle Layer of GAEA ROBOT.</p>
+<p align="center">Middle Layer of GAEA ROBOT.</p>
 
 
 
@@ -49,7 +49,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/top_layer.png" width="400px">
 </div>
 
-<p align="left">Top Layer of GAEA ROBOT.</p>
+<p align="center">Top Layer of GAEA ROBOT.</p>
 
 
 All the sensors and track devices and their most important parameters are listed as below:
