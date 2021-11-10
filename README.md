@@ -24,7 +24,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 1.Sensor Setup
 ### 1.1 Acquisition Platform
-Physical drawings and schematics of the ground robot is given below:
+Physical drawings and schematics of the ground robot is given below. The unit of the figures is centimeter.
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="400px">
