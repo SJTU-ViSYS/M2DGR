@@ -282,7 +282,7 @@ For IMU intrinsics,visit [Imu_utils](https://github.com/gaowenliang/imu_utils)
 
 For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-asl/kalibr)
 For extrinsics between Lidar and IMU,visit [Lidar_IMU_Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
-For extrinsics between cameras and Lidar, visit [autoware](https://github.com/Autoware-AI/autoware.ai) 
+For extrinsics between cameras and Lidar, visit [Autoware](https://github.com/Autoware-AI/autoware.ai) 
 ### 3.4 Getting RINEX files
 For GNSS based methods like [RTKLIB](http://www.rtklib.com/),we usually need to get data in the format of RINEX. To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
@@ -292,4 +292,4 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 
 ## 4.License
-This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us for further communication.
+This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
