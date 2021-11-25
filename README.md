@@ -240,6 +240,7 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://sjtu
 
 ## 3. Configuration Files
 For convenience of evaluation, we provide configuration files of some well-known SLAM systems as below:
+
 [A-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/aloam/aloam_velodyne_HDL_32.launch),
 
 [LeGO-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/legoloam/run.launch),
