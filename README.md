@@ -238,9 +238,19 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://sjtu
 </div>
 
 
+## 3. Configuration Files
+### 3.1 A-LOAM
+~~~
+roslaunch aloam_velodyne aloam_velodyne_HDL_32.launch
+rosbag play lift_02.bag --clock
+rosbag record /aft_mapped_to_init -O street_07.bag
+evo_traj bag street_07.bag /aft_mapped_to_init --save_as_tum
+~~~
 
-## 3.Development Toolkits
-### 3.1 Fetching Images
+
+
+## 4.Development Toolkits
+### 4.1 Fetching Images
 * For rosbag users, first make image view
 ~~~
 roscd image_view
@@ -254,7 +264,7 @@ rosrun image_transport republish compressed in:=/camera/color/image_raw raw out:
 ~~~
 * For non-rosbag users,just take advantage of following script  [export_tum](https://github.com/sjtuyinjie/toolkit/blob/main/export_tum.py),[export_euroc](https://github.com/sjtuyinjie/toolkit/blob/main/export_euroc.py) and [get_csv](https://github.com/sjtuyinjie/toolkit/blob/main/img2csv.py) to get data in formats of Tum or EuRoC.
 
-### 3.2 Evaluation
+### 4.2 Evaluation
 We use open-source tool [evo](https://github.com/MichaelGrupp/evo) for evalutation.
 To install evo,type
 ~~~
@@ -273,7 +283,7 @@ To test GNSS based methods,type
 evo_ape tum street_07.txt your_result.txt -vp
 ~~~
 
-### 3.3 Calibration
+### 4.3 Calibration
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
 use [Opencv](https://opencv.org/) for Kannala Brandt model
@@ -283,13 +293,17 @@ For IMU intrinsics,visit [Imu_utils](https://github.com/gaowenliang/imu_utils)
 For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-asl/kalibr)
 For extrinsics between Lidar and IMU,visit [Lidar_IMU_Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
 For extrinsics between cameras and Lidar, visit [Autoware](https://github.com/Autoware-AI/autoware.ai) 
-### 3.4 Getting RINEX files
+### 4.4 Getting RINEX files
 For GNSS based methods like [RTKLIB](http://www.rtklib.com/),we usually need to get data in the format of RINEX. To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
-### 3.5 ROS drivers for UVC cameras 
+### 4.5 ROS drivers for UVC cameras 
 We write a ROS driver for UVC cameras to record our thermal-infrared image. 
 [UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
 
 
-## 4.License
+
+
+
+
+## 5.License
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
