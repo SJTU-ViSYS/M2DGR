@@ -20,7 +20,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
 
-paper PDF is given in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf)
+A preprint version of the paper is given in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf)
 
 ## 1.Sensor Setup
 ### 1.1 Acquisition Platform
