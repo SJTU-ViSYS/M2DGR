@@ -99,7 +99,7 @@ The rostopics of our rosbag sequences are listed as follows:
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
 </div>
 
-<p align="left">Figure 6. A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
+<p align="left">Figure 3. A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
 
 
 An overview of M2DGR is given in the table below:
@@ -117,7 +117,7 @@ Ground Truth  |RTK/INS |RTK/INS |RTK/INS |RTK/INS |Leica |Leica |Leica |Mocap|Mo
 
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="400px">
-<p align="center">Figure 7. Outdoor Sequences:all trajectories are mapped in different colors.</p>
+<p align="center">Figure 4. Outdoor Sequences:all trajectories are mapped in different colors.</p>
   
 
 
@@ -154,7 +154,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://sjtueducn-my.
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="400px">
 
-<p align="left">Figure 8. Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
+<p align="left">Figure 5. Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
   
 
   
@@ -184,7 +184,7 @@ hall_05|2021-08-15|35.1g|402s|circle|[Rosbag](https://sjtueducn-my.sharepoint.co
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="400px">
 
-<p align="center">Figure 9. Room Sequences:under a Motion-capture system with twelve cameras.</p>
+<p align="center">Figure 6. Room Sequences:under a Motion-capture system with twelve cameras.</p>
   
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
@@ -209,7 +209,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://sjtueducn-my.share
   
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="400px">
-<p align="center">Figure 10. Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
+<p align="center">Figure 7. Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
