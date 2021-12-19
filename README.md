@@ -263,7 +263,7 @@ To install evo,type
 ~~~
 pip install evo --upgrade --no-binary evo
 ~~~
-To evaluate visual SLAM,type
+To evaluate monocular visual SLAM,type
 ~~~
 evo_ape tum street_07.txt your_result.txt -vaps
 ~~~
@@ -300,3 +300,5 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 ## 5.License
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
+
+If you face any problem when using this dataset, feel free to propose an issue.
