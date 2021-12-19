@@ -1,6 +1,6 @@
 # M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/big.png" width="800px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.png" width="800px">
 
 </div>
 <p align="center">Figure 1. Sample Images</p>
@@ -27,7 +27,7 @@ A preprint version of the paper is given in [M2DGR](https://github.com/SJTU-ViSY
 Physical drawings and schematics of the ground robot is given below. The unit of the figures is centimeter.
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/car.png" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/newcar4.png" width="400px">
 </div>
 
 <p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
