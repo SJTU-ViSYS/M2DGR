@@ -1,16 +1,13 @@
 # M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.png" width="800px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.jpg" width="800px">
 
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
 ## Abstract:
 
-  Intelligent ground robots  have significant application prospects due to their capability to fulfill special missions in complex and dangerous environments.Simultaneous Localization and Mapping (SLAM) is a critical module of robot navigation.Although the research of SLAM has achieved great progress in the past decades,it still has a long way towards mature deployment.Unfortunately, most of the existing datasets of ground robots have limited scenes and scarce categories of sensors, which restricts the development of localization algorithms for ground robots in variable and complex real-world environments,especially in darkness,fog,sharp turns.
-Here we introduce M2DGR:a new large-scale dataset collected by a ground robot which contains a full sensor-suite include surrounding and sky-pointing RGB cameras,an infrared camera,an event camera,an inertial measurement unit(IMU),a LIDAR,a consumer grade Global Navigation Satellite System (GNSS) receiver and a GNSS-IMU navigation system with real-time kinematic (RTK) GNSS suite providing centimetre accurate global positioning.The dataset include ample trajectories in highly diverse scenes covering rooms, elevators, streets, parking lots and so on.
-
-  Based on M2DGR, we evaluate the performance of a few state-of-the-art of SLAM algorithms in a few real-world environments, and analyze the scenarios where ground robots are not robust to.For the benefit of the research community,we make the dataset and evaluation results public.Our dataset,development toolkits and more infomation are now available through the link in the footnote.
+We introduce M2DGR: a novel large-scale dataset collected by a ground robot with a full sensor-suite including six fish-eye and one sky-pointing RGB cameras, an infrared camera, an event camera, a Visual-Inertial Sensor (VI-sensor), an inertial measurement unit (IMU), a LiDAR, a consumer-grade Global Navigation Satellite System (GNSS) receiver and a GNSS-IMU navigation system with real-time kinematic (RTK) signals. All those sensors were well-calibrated and synchronized, and their data were recorded simultaneously. The ground truth trajectories were obtained by the motion capture device, a laser 3D tracker, and an RTK receiver.  The dataset comprises 36 sequences (about 1TB) captured in diverse scenarios including both indoor and outdoor environments. We evaluate state-of-the-art SLAM algorithms on M2DGR. Results show that existing solutions perform poorly in some scenarios. For the benefit of the research community, we make the dataset and tools public.
 
 Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
@@ -27,7 +24,7 @@ A preprint version of the paper is given in [M2DGR](https://github.com/SJTU-ViSY
 Physical drawings and schematics of the ground robot is given below. The unit of the figures is centimeter.
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/newcar4.png" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/newcar4.png" width="800px">
 </div>
 
 <p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
