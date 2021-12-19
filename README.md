@@ -30,25 +30,10 @@ Physical drawings and schematics of the ground robot is given below. The unit of
 <p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
 
 
-<div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/side_view.png" width="400px">
-</div>
-
-<p align="center">Figure 3. Side View of GAEA ROBOT. Unit: cm</p>
-
-<div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/mid_layer.png" width="400px">
-</div>
-
-<p align="center">Figure 4. Middle Layer of GAEA ROBOT. Unit: cm</p>
 
 
 
-<div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/top_layer.png" width="400px">
-</div>
 
-<p align="center">Figure 5. Top Layer of GAEA ROBOT. Unit: cm</p>
 
 
 
