@@ -299,8 +299,8 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 
 ## 6.Future Plans
-We are planning to collect more sequences in different scenarios with rich sensors for SLAM purposes. 
-### If you have any suggestions, do not hesitate to propose an issue.
+In the future, we plan to update and extend our project from time to time, striving to build a comprehensive SLAM benchmark similar to the KITTI dataset for ground robots.
+### If you have any suggestions, do not hesitate to propose an issue. And if you find our dataset helpful in your study, a star is the best affirmation for us.
 
 
 
