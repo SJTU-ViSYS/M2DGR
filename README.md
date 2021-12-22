@@ -299,7 +299,8 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 
 # 6.Future Plans
-We are planning to collect more sequences in different scenarios with rich sensors for SLAM purposes. #### If you have any suggestions, do not hesitate to propose an issue.
+We are planning to collect more sequences in different scenarios with rich sensors for SLAM purposes. 
+#### If you have any suggestions, do not hesitate to propose an issue.
 
 
 
