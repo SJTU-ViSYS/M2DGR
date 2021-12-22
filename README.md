@@ -41,7 +41,6 @@ Physical drawings and schematics of the ground robot is given below. The unit of
 
 
 
-
 ### 2.2 Sensor parameters
 
 All the sensors and track devices and their most important parameters are listed as below:
@@ -297,11 +296,10 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 [UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
 
 
-
 ## 6.Future Plans
 In the future, we plan to update and extend our project from time to time, striving to build a comprehensive SLAM benchmark similar to the KITTI dataset for ground robots.
-### If you have any suggestions, do not hesitate to propose an issue. And if you find our dataset helpful in your research, a simple star is the best affirmation for us.
+### If you have any suggestions or questions, do not hesitate to propose an issue. And if you find our dataset helpful in your research, a simple star is the best affirmation for us.
 
 ## 7.Acknowledgement
-This work is supported by NSFC(62073214). Authors from SJTU hereby express our appreciation!
+This work is supported by NSFC(62073214). Authors from SJTU hereby express our appreciation.
 
