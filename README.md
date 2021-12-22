@@ -6,13 +6,13 @@
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
-## Abstract:
+## ABSTRACT:
 
 We introduce M2DGR: a novel large-scale dataset collected by a ground robot with a full sensor-suite including six fish-eye and one sky-pointing RGB cameras, an infrared camera, an event camera, a Visual-Inertial Sensor (VI-sensor), an inertial measurement unit (IMU), a LiDAR, a consumer-grade Global Navigation Satellite System (GNSS) receiver and a GNSS-IMU navigation system with real-time kinematic (RTK) signals. All those sensors were well-calibrated and synchronized, and their data were recorded simultaneously. The ground truth trajectories were obtained by the motion capture device, a laser 3D tracker, and an RTK receiver.  The dataset comprises 36 sequences (about 1TB) captured in diverse scenarios including both indoor and outdoor environments. We evaluate state-of-the-art SLAM algorithms on M2DGR. Results show that existing solutions perform poorly in some scenarios. For the benefit of the research community, we make the dataset and tools public.
 
 Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
-## Main Contributions:
+## MAIN CONTRIBUTIONS:
 * We collected long-term challenging sequences for ground robots both indoors and outdoors with a complete sensor suite, which includes six surround-view fish-eye cameras, a sky-pointing fish-eye camera, a perspective color camera, an event camera, an infrared camera, a 32-beam LIDAR, two GNSS receivers, and two IMUs. To our knowledge, this is the first SLAM dataset focusing on ground robot navigation with such rich sensory information.
 * We recorded trajectories in a few challenging scenarios like lifts, complete darkness, which can easily fail existing localization solutions. These situations are commonly faced in ground robot applications, while they are seldom discussed in previous datasets.
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
@@ -23,7 +23,7 @@ This work is licensed under MIT license. International License and is provided f
 
 Before our paper being public on arxiv.org and other potential websites, we present a preprint version of the paper in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf).We will update the index information as soon as our paper is officially published.
 
-## 2.Sensor Setup
+## 2.SENSOR SETUP
 ### 2.1 Acquisition Platform
 Physical drawings and schematics of the ground robot is given below. The unit of the figures is centimeter.
 
@@ -92,7 +92,7 @@ The rostopics of our rosbag sequences are listed as follows:
 * IMU: `/handsfree/imu `
  
 
-## 3.Dataset Sequences
+## 3.DATASET SEQUENCES
 
 
 **We make public ALL THE SEQUENCES with their GT now.**
@@ -244,7 +244,7 @@ For convenience of evaluation, we provide configuration files of some well-known
 
 [CUBMAPSLAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/cubemapslam/runCubemapstreet_06.sh)
 
-## 5.Development Toolkits
+## 5.DEVELOPMENT TOOLKITS
 ### 5.1 Fetching Images
 * For rosbag users, first make image view
 ~~~
@@ -296,10 +296,10 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 [UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
 
 
-## 6.Future Plans
+## 6.FUTURE PLANS
 In the future, we plan to update and extend our project from time to time, striving to build a comprehensive SLAM benchmark similar to the KITTI dataset for ground robots.
 ### If you have any suggestions or questions, do not hesitate to propose an issue. And if you find our dataset helpful in your research, a simple star is the best affirmation for us.
 
-## 7.Acknowledgement
+## 7.ACKNOWLEGEMENT
 This work is supported by NSFC(62073214). Authors from SJTU hereby express our appreciation.
 
