@@ -19,7 +19,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 
 ## 1.License
-This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your study, do not remember to give this project a star. Thanks in advance!
+This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, just give us a simple star. 
 
 Before our paper being public on arxiv.org and other potential websites, we present a preprint version of the paper in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf).We will update the index information as soon as our paper is officially published.
 
@@ -300,7 +300,7 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 ## 6.Future Plans
 In the future, we plan to update and extend our project from time to time, striving to build a comprehensive SLAM benchmark similar to the KITTI dataset for ground robots.
-### If you have any suggestions, do not hesitate to propose an issue. And if you find our dataset helpful in your study, a star is the best affirmation for us.
+### If you have any suggestions, do not hesitate to propose an issue. And if you find our dataset helpful in your research, a simple star is the best affirmation for us.
 
 
 
