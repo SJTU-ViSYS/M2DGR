@@ -18,7 +18,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
 
-## 1.License
+## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, just give us a simple star. 
 
 Before our paper being public on arxiv.org and other potential websites, we present a preprint version of the paper in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf).We will update the index information as soon as our paper is officially published.
