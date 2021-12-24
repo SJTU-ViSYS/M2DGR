@@ -21,7 +21,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, just give us a simple star. 
 
-Before our paper being public on arxiv.org and other potential websites, we present a preprint version of the paper in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf).We will update the index information as soon as our paper is officially published.
+The paper has been submited for RA-L and ICRA 2022. Before our paper being public on arxiv.org and other potential websites, we present a preprint version of the paper in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf).We will update the index information as soon as our paper is officially published.
 
 ## 2.SENSOR SETUP
 ### 2.1 Acquisition Platform
