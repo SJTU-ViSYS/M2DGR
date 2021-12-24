@@ -1,7 +1,6 @@
 %% SLAM-Scenes Dataset Calibration
 %%All translation in meters
 
-
 %% Cam-head 3199
 % Extrinsic [to LIDAR], [opencv-matrix]
 %to be changed
