@@ -23,6 +23,20 @@ This work is licensed under MIT license. International License and is provided f
 
 The paper has been submited for RA-L and ICRA 2022. Before our paper being public on arxiv.org and other potential websites, we present a preprint version of the paper in [M2DGR](https://github.com/SJTU-ViSYS/M2DGR/blob/main/main.pdf).We will update the index information as soon as our paper is officially published.
 
+If you use M2DGR in an academic work, please cite (details to be updated)
+~~~
+@article{yin2022M2DGR,
+  title={M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots},
+  author={Jie Yin,  Ang Li, Tao Li, Wenxian Yu, and Danping Zou},
+  journal={IEEE Robotics and Automation Letters},
+  volume={},
+  number={},
+  pages={},
+  year={2022},
+  publisher={IEEE}
+}
+~~~
+
 ## 2.SENSOR SETUP
 ### 2.1 Acquisition Platform
 Physical drawings and schematics of the ground robot is given below. The unit of the figures is centimeter.
