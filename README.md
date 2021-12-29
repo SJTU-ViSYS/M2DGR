@@ -21,7 +21,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, just give us a simple star. 
 
-The paper has been submited for RA-L and ICRA 2022. Before our paper being offically published, we present a preprint version of the paper in an arxiv link [M2DGR](https://arxiv.org/abs/2112.13659).
+The paper has been submited for [RA-L](https://www.ieee-ras.org/publications/ra-l/) and [ICRA 2022](https://icra2022.org/). Before our paper being offically published, we present a preprint version of the paper in an arxiv link [M2DGR](https://arxiv.org/abs/2112.13659).
 
 If you use M2DGR in an academic work, please cite:
 ~~~
