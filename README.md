@@ -21,19 +21,22 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, just give us a simple star. 
 
-The paper has been submited for [RA-L](https://www.ieee-ras.org/publications/ra-l/) and [ICRA 2022](https://icra2022.org/). Before our paper being offically published, we present a preprint version of the paper in an arxiv link [M2DGR](https://arxiv.org/abs/2112.13659).
+The paper has been submitted for [RA-L](https://www.ieee-ras.org/publications/ra-l/) and [ICRA 2022](https://icra2022.org/). A preprint version of the paper in [Arxiv](https://arxiv.org/abs/2112.13659) and [IEEE RA-L](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664374).
 
 If you use M2DGR in an academic work, please cite:
 ~~~
-@misc{yin2021m2dgr,
-      title={M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots}, 
-      author={Jie Yin and Ang Li and Tao Li and Wenxian Yu and Danping Zou},
-      year={2021},
-      eprint={2112.13659},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}
+@ARTICLE{9664374,
+  author={Yin, Jie and Li, Ang and Li, Tao and Yu, Wenxian and Zou, Danping},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LRA.2021.3138527}}
 ~~~
+
+
 
 ## 2.SENSOR SETUP
 ### 2.1 Acquisition Platform
