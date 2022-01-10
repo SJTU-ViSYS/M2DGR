@@ -1,5 +1,4 @@
-## Updates
-We will upload more brand new datasets soon! Please follow our work!
+
 
 
 # M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots 
@@ -21,6 +20,9 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * We recorded trajectories in a few challenging scenarios like lifts, complete darkness, which can easily fail existing localization solutions. These situations are commonly faced in ground robot applications, while they are seldom discussed in previous datasets.
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
+
+## Updates
+2022.1.10   We will upload more brand new datasets soon! Please follow our work!
 
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
