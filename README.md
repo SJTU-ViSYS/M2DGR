@@ -22,7 +22,8 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 
 ## Updates
-2022.1.10   We will upload more brand new datasets soon! Please follow our work!
+2022.01.10   We will upload more brand new datasets soon! Please follow our work!
+2022.02.01   Our work has been accepted by ICRA2022!
 
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
