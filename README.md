@@ -274,7 +274,7 @@ For convenience of evaluation, we provide configuration files of some well-known
 [CUBMAPSLAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/cubemapslam/runCubemapstreet_06.sh)
 
 ## 5.DEVELOPMENT TOOLKITS
-### 5.1 Fetching Images
+### 5.1 Extracting Images
 * For rosbag users, first make image view
 ~~~
 roscd image_view
