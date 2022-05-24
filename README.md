@@ -21,8 +21,13 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
 
+## Video
+[![ICRA2022 presentation](fig/cover.png)]([https://www.youtube.com/watch?v=XGGV9fB7raA](https://youtu.be/73enWUwxJ1k))
+For Chinese users, try [![bilibili](fig/cover.png)](https://www.bilibili.com/video/BV1q3411G7iF/)
+
 ## Updates
 2022.02.18   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [SJTU-GVI](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star if you like it!
+
 
 2022.02.01   Our work has been accepted by ICRA2022!
 
