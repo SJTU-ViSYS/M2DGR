@@ -33,7 +33,11 @@ For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/B
 ### 2022.06.20   Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Following is the link of their modified LVI-SAM version [link](https://github.com/electech6/LVI-SAM_detailed_comments). Refer [Link](https://github.com/SJTU-ViSYS/M2DGR/blob/main/LVISAM-modified.md) for detailed information. And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
 
 <center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/result.png" width="70%">
+<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
+</center>
+
+<center>
+<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/street_08_v1.gif" width="70%">
 </center>
 
 <p align="left">LVI-SAM on M2DGR</p>
