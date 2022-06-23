@@ -9,6 +9,13 @@
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
+## Notice
+### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data have following features:
+1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
+2. Various scenarios in real-world environments including lifts, streets, rooms, halls and so on.
+3. Our dataset brings great challenge to existing SLAM algorithms including LIO-SAM and ORB-SLAM3. If your proposed algorihms outperform them in M2DGR, your paper will be much more convincing and valuable.
+
+
 ## ABSTRACT:
 
 We introduce M2DGR: a novel large-scale dataset collected by a ground robot with a full sensor-suite including six fish-eye and one sky-pointing RGB cameras, an infrared camera, an event camera, a Visual-Inertial Sensor (VI-sensor), an inertial measurement unit (IMU), a LiDAR, a consumer-grade Global Navigation Satellite System (GNSS) receiver and a GNSS-IMU navigation system with real-time kinematic (RTK) signals. All those sensors were well-calibrated and synchronized, and their data were recorded simultaneously. The ground truth trajectories were obtained by the motion capture device, a laser 3D tracker, and an RTK receiver.  The dataset comprises 36 sequences (about 1TB) captured in diverse scenarios including both indoor and outdoor environments. We evaluate state-of-the-art SLAM algorithms on M2DGR. Results show that existing solutions perform poorly in some scenarios. For the benefit of the research community, we make the dataset and tools public.
