@@ -10,7 +10,7 @@
 <p align="center">Figure 1. Sample Images</p>
 
 ## Notice
-### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data have following features:
+### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. Various scenarios in real-world environments including lifts, streets, rooms, halls and so on.
 3. Our dataset brings great challenge to existing SLAM algorithms including LIO-SAM and ORB-SLAM3. If your proposed algorihms outperform them in M2DGR, your paper will be much more convincing and valuable.
