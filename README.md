@@ -54,7 +54,7 @@ For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/B
 
 2022.02.01   Our work has been accepted by ICRA2022!
 
-2022.01.10   We will upload more brand new datasets soon. Please follow our work
+
 
 
 
