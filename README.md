@@ -9,6 +9,28 @@
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
+
+## Updates
+### 2022.9.13 welcome to follow and star our new work: Ground-Challenge at https://github.com/sjtuyinjie/Ground-Challenge. Feel free to propose issues if needed.
+
+### 2022.06.20   Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Following is the link of their modified LVI-SAM version [link](https://github.com/electech6/LVI-SAM_detailed_comments). Refer [Link](https://github.com/SJTU-ViSYS/M2DGR/blob/main/LVISAM-modified.md) for detailed information. And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
+
+<center>
+<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
+</center>
+
+<center>
+<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/street_08_v1.gif" width="70%">
+</center>
+
+<p align="left">LVI-SAM on M2DGR</p>
+
+2022.02.18   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [SJTU-GVI](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star and folk the project if you like it.
+
+
+2022.02.01   Our work has been accepted by ICRA2022!
+
+
 ## NOTICE
 ### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
@@ -36,23 +58,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/BV1q3411G7iF/)
 
 
-## Updates
-### 2022.06.20   Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Following is the link of their modified LVI-SAM version [link](https://github.com/electech6/LVI-SAM_detailed_comments). Refer [Link](https://github.com/SJTU-ViSYS/M2DGR/blob/main/LVISAM-modified.md) for detailed information. And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
 
-<center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
-</center>
-
-<center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/street_08_v1.gif" width="70%">
-</center>
-
-<p align="left">LVI-SAM on M2DGR</p>
-
-2022.02.18   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [SJTU-GVI](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star and folk the project if you like it.
-
-
-2022.02.01   Our work has been accepted by ICRA2022!
 
 
 
