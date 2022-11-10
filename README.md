@@ -2,7 +2,7 @@
 
 
 # M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots 
-## Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories),  Ang Li, [Tao Li](https://github.com/bryantaoli), Wenxian Yu, and [Danping Zou](https://github.com/danping)
+## Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories), [Tao Li](https://github.com/bryantaoli), Wenxian Yu, and [Danping Zou](https://github.com/danping)
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.jpg" width="800px">
 
