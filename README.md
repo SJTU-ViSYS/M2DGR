@@ -11,6 +11,9 @@
 
 
 ## Updates
+
+### 2022.12.13 Our new work coming soon! Codes and datasets will be available in https://github.com/sjtuyinjie/M2DGR-plus and https://github.com/sjtuyinjie/Ground-Fusion upon paper acceptance. 
+
 ### 2022.9.13 welcome to follow and star our new work: Ground-Challenge at https://github.com/sjtuyinjie/Ground-Challenge. Feel free to propose issues if needed.
 
 ### 2022.06.20   Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Following is the link of their modified LVI-SAM version [link](https://github.com/electech6/LVI-SAM_detailed_comments). Refer [Link](https://github.com/SJTU-ViSYS/M2DGR/blob/main/LVISAM-modified.md) for detailed information. And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
