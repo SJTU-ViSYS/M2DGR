@@ -12,7 +12,7 @@
 
 ## Updates
 
-### 2022.12.13 Our new work coming soon! Codes and datasets will be available in https://github.com/sjtuyinjie/M2DGR-plus and https://github.com/sjtuyinjie/Ground-Fusion upon paper acceptance. 
+### 2022.12.13 Our new work coming soon! Codes and datasets will be available in https://github.com/sjtuyinjie/M2DGR-plus and https://github.com/SJTU-ViSYS/Ground-Fusion upon paper acceptance. 
 
 ### 2022.9.13 welcome to follow and star our new work: Ground-Challenge at https://github.com/sjtuyinjie/Ground-Challenge. Feel free to propose issues if needed.
 
