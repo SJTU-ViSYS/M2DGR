@@ -1,7 +1,7 @@
 
 
 
-# M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robotsccc
+# M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots
 ## First Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.jpg" width="800px">
