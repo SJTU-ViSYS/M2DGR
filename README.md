@@ -9,7 +9,7 @@
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
-xxx
+
 ## Updates
 
 ### 2022.12.13 Our new work coming soon! Codes and datasets will be available in https://github.com/sjtuyinjie/M2DGR-plus and https://github.com/SJTU-ViSYS/Ground-Fusion upon paper acceptance. 
