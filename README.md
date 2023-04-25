@@ -15,9 +15,9 @@
 
 ### 2023.4.22 some great work which have cited our M2DGR dataset.
 1. [Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm)
-2. [GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9795679)
+2. [GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9795679)
 3. [Multimodal neural radiance field](https://www.amazon.science/publications/multimodal-neural-radiance-field)
-4.
+
 
 
 ### 2022.06.20   Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Following is the link of their modified LVI-SAM version [link](https://github.com/electech6/LVI-SAM_detailed_comments).  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
