@@ -14,7 +14,7 @@
 
 
 ### 2024.2.22 
-New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion).
+New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
 
 ### 2023.4.22 some great work which have cited our M2DGR dataset.
 1. [Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm)
