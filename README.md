@@ -81,10 +81,10 @@ For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/B
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
 
-If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, simply give this project a 
+If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, simply give this project a star
 . 
 
-The paper has been accepted by both [RA-L](https://www.ieee-ras.org/publications/ra-l/) and [ICRA 2022](https://icra2022.org/). A preprint version of the paper in [Arxiv](https://arxiv.org/abs/2112.13659) and [IEEE RA-L](https://ieeexplore.ieee.org/document/9664374).If you use M2DGR in an academic work, please cite:
+The paper has been accepted by both [RA-L](https://www.ieee-ras.org/publications/ra-l/) and [ICRA 2022](https://icra2022.org/). The paper is provided in [Arxiv version](https://arxiv.org/abs/2112.13659) and [IEEE RA-L version](https://ieeexplore.ieee.org/document/9664374).If you use M2DGR in an academic work, please cite:
 ~~~
 @article{yin2021m2dgr,
   title={M2dgr: A multi-sensor and multi-scenario slam dataset for ground robots},
