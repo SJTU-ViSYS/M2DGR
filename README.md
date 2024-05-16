@@ -10,7 +10,7 @@
 <p align="center">Figure 1. Sample Images</p>
 
 
-## Updates
+## News & Updates
 
 
 ### 2024.5.16 Introducing a list of excellent projects based on M2DGR dataset:
