@@ -13,7 +13,7 @@
 ## Updates
 
 
-### 2024.5.16 Introducing several excellent projects based on M2DGR dataset:
+### 2024.5.16 Introducing a list of excellent projects based on M2DGR dataset:
 
 #### 1. Dataset extension
 
@@ -52,7 +52,7 @@ New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://git
 
 
 
-### 2022.06.20  
+### 2022.6.20  
 
 Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Following is the link of their modified LVI-SAM version [link](https://github.com/electech6/LVI-SAM_detailed_comments).  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
 
