@@ -15,19 +15,20 @@
 
 ### 2024.5.16 Introducing several excellent projects based on M2DGR dataset:
 
-1. Dataset extension
+#### 1. Dataset extension
+
 [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2dDGR-plus)from ICRA
 
-2. Calibration:
+#### 2.Calibration:
    
 [GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L
 
-3. Survey
+#### 3. Survey
 
 [Resilient and Distributed Multi-Robot Visual SLAM:
 Datasets, Experiments, and Lessons Learned](https://arxiv.org/pdf/2304.04362) from IROS
 
-4. SLAM systems/modules
+#### 4. SLAM systems/modules
 
 [Swarm-SLAM: Sparse Decentralized Collaborative
 Simultaneous Localization and Mapping Framework
@@ -70,11 +71,11 @@ New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://git
 
 
 ## NOTICE
-### We strongly recommend that the newly proposed SLAM algorithm be tested on our data, because our data has following features:
+### We strongly recommend that the newly proposed SLAM algorithm be tested on our M2DGR / M2DGR-plus, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. Various scenarios in real-world environments including lifts, streets, rooms, halls and so on.
 3. Our dataset brings great challenge to existing SLAM algorithms including LIO-SAM and ORB-SLAM3. If your proposed algorihm outperforms SOTA systems on M2DGR, your paper will be much more convincing and valuable.
-
+4. A lot of excellent projects have been tested on M2DGR/M2DGE-plus, for examples, Ground-Fusion, Swarm-SLAM, DAMS-LIO, VoxelMap++, GRIL-Cali, and so on!
 
 ## ABSTRACT:
 
