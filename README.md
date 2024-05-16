@@ -30,11 +30,14 @@ Datasets, Experiments, and Lessons Learned](https://arxiv.org/pdf/2304.04362) fr
 
 #### 4. SLAM systems/modules
 
+[LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation](https://arxiv.org/abs/2307.09531) from RA-L
+
+[Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm) from T-PAMI
+
 [Swarm-SLAM: Sparse Decentralized Collaborative
 Simultaneous Localization and Mapping Framework
 for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230) from RA-L
    
-[Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm) from T-PAMI
  
 [DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry](https://arxiv.org/pdf/2302.01703) from ICRA
 
@@ -77,7 +80,7 @@ Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Foll
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. Various scenarios in real-world environments including lifts, streets, rooms, halls and so on.
 3. Our dataset brings great challenge to existing SLAM algorithms including LIO-SAM and ORB-SLAM3. If your proposed algorihm outperforms SOTA systems on M2DGR, your paper will be much more convincing and valuable.
-4. A lot of excellent projects have been tested on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion), and so on!
+4. A lot of excellent projects have been tested on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion), and so on!
 
 ## ABSTRACT:
 
