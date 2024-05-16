@@ -13,23 +13,32 @@
 ## Updates
 
 
-### 2024.5.16 introducing several excellent projects based on M2DGR dataset
+### 2024.5.16 Introducing several excellent projects based on M2DGR dataset:
 
-1. Calibration:
+1. Dataset extension
+[Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2dDGR-plus)from ICRA
+
+2. Calibration:
    
-[GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib)
+[GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L
 
-2. SLAM systems
+3. Survey
+
+[Resilient and Distributed Multi-Robot Visual SLAM:
+Datasets, Experiments, and Lessons Learned](https://arxiv.org/pdf/2304.04362) from IROS
+
+4. SLAM systems/modules
 
 [Swarm-SLAM: Sparse Decentralized Collaborative
 Simultaneous Localization and Mapping Framework
-for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230)
+for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230) from RA-L
    
-[Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm)
+[Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm) from T-PAMI
+ 
+[DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry](https://arxiv.org/pdf/2302.01703) from ICRA
 
-[GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9795679)
-
-[Multimodal neural radiance field](https://www.amazon.science/publications/multimodal-neural-radiance-field)
+[VoxelMap++: Mergeable Voxel Mapping Method
+for Online LiDAR(-inertial) Odometry](https://arxiv.org/pdf/2308.02799) from RA-L
 
 
 ### 2024.3.5
