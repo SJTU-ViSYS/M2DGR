@@ -12,16 +12,33 @@
 
 ## Updates
 
+
+### 2024.5.16 introducing several excellent projects based on M2DGR dataset
+
+1. Calibration:
+   
+[GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib)
+
+2. SLAM systems
+
+[Swarm-SLAM: Sparse Decentralized Collaborative
+Simultaneous Localization and Mapping Framework
+for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230)
+   
+[Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm)
+
+[GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9795679)
+
+[Multimodal neural radiance field](https://www.amazon.science/publications/multimodal-neural-radiance-field)
+
+
 ### 2024.3.5
 A quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. Here are the [configuration files](https://blog.csdn.net/zardforever123/article/details/129194673) for ORB-SLAM2,ORB-SLAM3,VINS-Mono,DM-VIO,A-LOAM,Lego-LOAM,LIO-SAM,LVI-SAM,LINS,FastLIO2,Fast-LIVO,Faster-LIO and hdl_graph_slam. Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
 ### 2024.2.22 
 New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
 
-### 2023.4.22 some great work which have cited our M2DGR dataset.
-1. [Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm)
-2. [GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9795679)
-3. [Multimodal neural radiance field](https://www.amazon.science/publications/multimodal-neural-radiance-field)
+
 
 
 
