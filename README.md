@@ -13,10 +13,10 @@
 
 
 ## NOTICE
-### We strongly recommend that the newly proposed SLAM algorithm be tested on our M2DGR / M2DGR-plus, because our data has following features:
+### We strongly recommend that the newly proposed SLAM algorithm be tested on our M2DGR / M2DGR-plus benchmark, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. Various scenarios in real-world environments including lifts, streets, rooms, halls and so on.
-3. Our dataset brings great challenge to existing SLAM algorithms including LIO-SAM and ORB-SLAM3. If your proposed algorihm outperforms SOTA systems on M2DGR, your paper will be much more convincing and valuable.
+3. Our dataset brings great challenge to existing SLAM algorithms including LIO-SAM and ORB-SLAM3. If your proposed algorihm outperforms SOTA systems on M2DGR/M2DGR-plus, your paper will be much more convincing and valuable.
 4. A lot of excellent projects have been tested on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion),[LINK3d](https://github.com/YungeCui/LinK3D) and so on!
 
 
