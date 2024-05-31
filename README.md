@@ -20,7 +20,7 @@
 4. A lot of excellent open-source projects have been built on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion),[LINK3d](https://github.com/YungeCui/LinK3D),[i-Octree](https://github.com/zhujun3753/i-octree),[LIO-EKF](https://github.com/YibinWu/LIO-EKF) and so on!
 
 
-## News & Updates
+## ** News & Updates
 
 
 ### 2024.5.16 Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
@@ -76,7 +76,7 @@ New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://git
 
 ### 2022.6.20  
 
-Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [Here](https://github.com/electech6/LVI-SAM_detailed_comments) is the link of their modified LVI-SAM version.  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
+Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**Here**](https://github.com/electech6/LVI-SAM_detailed_comments) is the link of their modified LVI-SAM version.  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
 
 <center>
 <img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
