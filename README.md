@@ -113,7 +113,7 @@ Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**H
 
 - **📄 `2022/02/01`**:   The paper has been accepted by both [**RA-L**](https://www.ieee-ras.org/publications/ra-l/) and [**ICRA 2022**](https://icra2022.org/). The paper is provided in [Arxiv version](https://arxiv.org/abs/2112.13659) and [IEEE RA-L version](https://ieeexplore.ieee.org/document/9664374).
 
-## Introduction
+## INTRODUCTION
 
 ### ABSTRACT:
 
@@ -127,7 +127,7 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
 
-### Video
+### VIDEO
 [![ICRA2022 Presentation](cover.png)](https://www.youtube.com/watch?v=73enWUwxJ1k)
 
 
@@ -362,7 +362,7 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://sjtu
 </div>
 
 
-## Configuration Files
+## CONFIGURATION FILES
 For convenience of evaluation, we provide configuration files of some well-known SLAM systems as below:
 
 [A-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/aloam/aloam_velodyne_HDL_32.launch),
@@ -383,7 +383,7 @@ For convenience of evaluation, we provide configuration files of some well-known
 
 [CUBMAPSLAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/cubemapslam/runCubemapstreet_06.sh)
 
-## Development Tookkit
+## DEVELOPEMENT TOOLKIT
 ### Extracting Images
 * For rosbag users, first make image view
 ~~~
