@@ -23,7 +23,7 @@
 ## News & Updates
 
 
-### 2024.5.16 Introducing a list of excellent projects based on M2DGR dataset:
+### 2024.5.16 Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
 
 #### 1. Dataset extension
 
