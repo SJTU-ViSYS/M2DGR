@@ -238,7 +238,7 @@ The rostopics of our rosbag sequences are listed as follows:
 
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="600px">
 </div>
 
 <p align="left">Figure 3. A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
@@ -258,7 +258,7 @@ Ground Truth  |RTK/INS |RTK/INS |RTK/INS |RTK/INS |Leica |Leica |Leica |Mocap|Mo
 ### Outdoors
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="600px">
 <p align="center">Figure 4. Outdoor Sequences:all trajectories are mapped in different colors.</p>
   
 
@@ -294,7 +294,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://sjtueducn-my.
 ### Indoors
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="600px">
 
 <p align="left">Figure 5. Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
   
@@ -324,7 +324,7 @@ hall_05|2021-08-15|35.1g|402s|circle|[Rosbag](https://sjtueducn-my.sharepoint.co
 
 
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="600px">
 
 <p align="center">Figure 6. Room Sequences:under a Motion-capture system with twelve cameras.</p>
   
@@ -350,7 +350,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://sjtueducn-my.share
 ### Alternative indoors and outdoors
   
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="400px">
+<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="600px">
 <p align="center">Figure 7. Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
 
 
