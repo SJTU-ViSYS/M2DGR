@@ -1,5 +1,6 @@
 
 
+
 # M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots （RA-L & ICRA2022）
 ## First Author: [**Jie Yin**](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
@@ -20,26 +21,27 @@
 
 ## Table of Contents
 1. [News & Updates](#news--updates)
-2. [Abstract](#abstract)
-3. [Main Contributions](#main-contributions)
-4. [Video](#video)
-5. [License](#license)
-6. [Sensor Setup](#sensor-setup)
+2. [Introduction](#introduction)
+   - [Abstract](#abstract)
+   - [Main Contributions](#main-contributions)
+   - [Video](#video)
+6. [License](#license)
+7. [Sensor Setup](#sensor-setup)
     - [Acquisition Platform](#acquisition-platform)
     - [Sensor Parameters](#sensor-parameters)
-7. [Dataset Sequences](#dataset-sequences)
+8. [Dataset Sequences](#dataset-sequences)
     - [Outdoors](#outdoors)
     - [Indoors](#indoors)
     - [Alternative Indoors and Outdoors](#alternative-indoors-and-outdoors)
-8. [Configuration Files](#configuration-files)
-9. [Development Toolkits](#development-toolkits)
+9. [Configuration Files](#configuration-files)
+10. [Development Toolkits](#development-toolkits)
     - [Extracting Images](#extracting-images)
     - [Evaluation](#evaluation)
     - [Calibration](#calibration)
     - [Getting RINEX Files](#getting-rinex-files)
     - [ROS Drivers for UVC Cameras](#ros-drivers-for-uvc-cameras)
-10. [Future Plans](#future-plans)
-11. [Acknowledgement](#acknowlegement)
+11. [Future Plans](#future-plans)
+12. [Acknowledgement](#acknowlegement)
 
 
 
@@ -111,21 +113,21 @@ Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**H
 
 - **📄 `2022/02/01`**:   The paper has been accepted by both [**RA-L**](https://www.ieee-ras.org/publications/ra-l/) and [**ICRA 2022**](https://icra2022.org/). The paper is provided in [Arxiv version](https://arxiv.org/abs/2112.13659) and [IEEE RA-L version](https://ieeexplore.ieee.org/document/9664374).
 
+## Introduction
 
-
-## ABSTRACT:
+### ABSTRACT:
 
 We introduce M2DGR: a novel large-scale dataset collected by a ground robot with a full sensor-suite including six fish-eye and one sky-pointing RGB cameras, an infrared camera, an event camera, a Visual-Inertial Sensor (VI-sensor), an inertial measurement unit (IMU), a LiDAR, a consumer-grade Global Navigation Satellite System (GNSS) receiver and a GNSS-IMU navigation system with real-time kinematic (RTK) signals. All those sensors were well-calibrated and synchronized, and their data were recorded simultaneously. The ground truth trajectories were obtained by the motion capture device, a laser 3D tracker, and an RTK receiver.  The dataset comprises 36 sequences (about 1TB) captured in diverse scenarios including both indoor and outdoor environments. We evaluate state-of-the-art SLAM algorithms on M2DGR. Results show that existing solutions perform poorly in some scenarios. For the benefit of the research community, we make the dataset and tools public.
 
 Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
-## MAIN CONTRIBUTIONS:
+### MAIN CONTRIBUTIONS:
 * We collected long-term challenging sequences for ground robots both indoors and outdoors with a complete sensor suite, which includes six surround-view fish-eye cameras, a sky-pointing fish-eye camera, a perspective color camera, an event camera, an infrared camera, a 32-beam LIDAR, two GNSS receivers, and two IMUs. To our knowledge, this is the first SLAM dataset focusing on ground robot navigation with such rich sensory information.
 * We recorded trajectories in a few challenging scenarios like lifts, complete darkness, which can easily fail existing localization solutions. These situations are commonly faced in ground robot applications, while they are seldom discussed in previous datasets.
 * We launched a comprehensive benchmark for ground robot navigation. On this benchmark, we evaluated existing state-of-the-art SLAM algorithms of various designs and analyzed their characteristics and defects individually.
 
 
-## Video
+### Video
 [![ICRA2022 Presentation](cover.png)](https://www.youtube.com/watch?v=73enWUwxJ1k)
 
 
@@ -141,7 +143,7 @@ For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/B
 
 
 
-## 1. LICENSE
+## LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
 
 If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, simply give this project a star. If you use M2DGR in an academic work, please cite:
