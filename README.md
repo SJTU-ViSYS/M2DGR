@@ -1,6 +1,5 @@
 
 
-
 # M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots （RA-L & ICRA2022）
 ## First Author: [**Jie Yin**](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
@@ -11,13 +10,36 @@
 
 
 
-
 ## NOTICE
 ### We strongly recommend that the newly proposed SLAM algorithm be tested on our M2DGR / M2DGR-plus benchmark, because our data has following features:
 1. A  rich pool of sensory information including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. Various scenarios in real-world environments including lifts, streets, rooms, halls and so on.
 3. Our dataset brings great challenge to existing SLAM algorithms including [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) and [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3). If your proposed algorihm outperforms SOTA systems on [M2DGR](https://github.com/SJTU-ViSYS/M2DGR)/[M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus), your paper will be much more convincing and valuable.
-4. A lot of excellent open-source projects have been built on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion),[LINK3d](https://github.com/YungeCui/LinK3D),[i-Octree](https://github.com/zhujun3753/i-octree),[LIO-EKF](https://github.com/YibinWu/LIO-EKF) and so on!
+4. 🔥 A lot of excellent open-source projects have been built on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion),[LINK3d](https://github.com/YungeCui/LinK3D),[i-Octree](https://github.com/zhujun3753/i-octree),[LIO-EKF](https://github.com/YibinWu/LIO-EKF) and so on!
+
+
+## Table of Contents
+1. [News & Updates](#news--updates)
+2. [Abstract](#abstract)
+3. [Main Contributions](#main-contributions)
+4. [Video](#video)
+5. [License](#license)
+6. [Sensor Setup](#sensor-setup)
+    - [Acquisition Platform](#acquisition-platform)
+    - [Sensor Parameters](#sensor-parameters)
+7. [Dataset Sequences](#dataset-sequences)
+    - [Outdoors](#outdoors)
+    - [Indoors](#indoors)
+    - [Alternative Indoors and Outdoors](#alternative-indoors-and-outdoors)
+8. [Configuration Files](#configuration-files)
+9. [Development Toolkits](#development-toolkits)
+    - [Extracting Images](#extracting-images)
+    - [Evaluation](#evaluation)
+    - [Calibration](#calibration)
+    - [Getting RINEX Files](#getting-rinex-files)
+    - [ROS Drivers for UVC Cameras](#ros-drivers-for-uvc-cameras)
+10. [Future Plans](#future-plans)
+11. [Acknowledgement](#acknowlegement)
 
 
 
@@ -62,14 +84,14 @@
 - **⭐️`2024/03/05`**:
 A quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. [Here](https://blog.csdn.net/zardforever123/article/details/129194673) are the configuration files for [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2),[ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3),[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono),[DM-VIO](https://github.com/lukasvst/dm-vio),[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM),[Lego-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM),[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM),[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM),[LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM),[FastLIO2](https://github.com/hku-mars/FAST_LIO),[Fast-LIVO](https://github.com/hku-mars/FAST-LIVO),[Faster-LIO](https://github.com/gaoxiang12/faster-lio) and [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam). Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
-- **`2024/02/22`**:
+- **🚀 `2024/02/22`**:
 New paper has been accepted by ICRA2024! The dataset is [**M2DGR-plus**](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [**Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
 
 
 
 
 
-- **`2022/06/20`**:
+- **⭐️`2022/06/20`**:
 Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**Here**](https://github.com/electech6/LVI-SAM_detailed_comments) is the link of their modified LVI-SAM version.  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
 
 
@@ -84,10 +106,10 @@ Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**H
 </div>
 <p align="center">>LVI-SAM on M2DGR</p>
 
-- **`2022/02/18`**:   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [**SJTU-GVI**](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star and folk the project if you like it.
+- **⭐️`2022/02/18`**:   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [**SJTU-GVI**](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star and folk the project if you like it.
 
 
-- **`2022/02/01`**:   Our work has been accepted by **ICRA2022** and **RA-L2021**!
+- **📄 `2022/02/01`**:   The paper has been accepted by both [**RA-L**](https://www.ieee-ras.org/publications/ra-l/) and [**ICRA 2022**](https://icra2022.org/). The paper is provided in [Arxiv version](https://arxiv.org/abs/2112.13659) and [IEEE RA-L version](https://ieeexplore.ieee.org/document/9664374).
 
 
 
@@ -122,10 +144,7 @@ For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/B
 ## 1.LICENSE
 This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
 
-If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, simply give this project a star
-. 
-
-The paper has been accepted by both [RA-L](https://www.ieee-ras.org/publications/ra-l/) and [ICRA 2022](https://icra2022.org/). The paper is provided in [Arxiv version](https://arxiv.org/abs/2112.13659) and [IEEE RA-L version](https://ieeexplore.ieee.org/document/9664374).If you use M2DGR in an academic work, please cite:
+If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, simply give this project a star. If you use M2DGR in an academic work, please cite:
 ~~~
 @article{yin2021m2dgr,
   title={M2dgr: A multi-sensor and multi-scenario slam dataset for ground robots},
