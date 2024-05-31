@@ -347,7 +347,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://sjtueducn-my.share
   
 
   
-### alternative indoors and outdoors
+### Alternative indoors and outdoors
   
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="400px">
@@ -412,7 +412,7 @@ For extrinsics between cameras and IMU,visit [Kalibr](https://github.com/ethz-as
 For extrinsics between Lidar and IMU,visit [Lidar_IMU_Calib](https://github.com/APRIL-ZJU/lidar_IMU_calib) 
 For extrinsics between cameras and Lidar, visit [Autoware](https://github.com/Autoware-AI/autoware.ai) 
 ### Getting RINEX files
-For GNSS based methods like [RTKLIB](http://www.rtklib.com/),we usually need to get data in the format of RINEX. To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
+For GNSS based methods like [RTKLIB](http://www.rtklib.com/), we usually need to get data in the format of RINEX. To make use of GNSS raw measurements, we use [Link](https://github.com/TakahashiJinxu/ublox2rinex) toolkit.
 
 ### ROS drivers for UVC cameras 
 We write a ROS driver for UVC cameras to record our thermal-infrared image. 
