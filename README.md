@@ -2,7 +2,7 @@
 
 
 # M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots （RA-L & ICRA2022）
-## First Author: [Jie Yin](https://github.com/sjtuyinjie?tab=repositories)
+## First Author: [**Jie Yin**](https://github.com/sjtuyinjie?tab=repositories)
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.jpg" width="800px">
 
@@ -20,78 +20,74 @@
 4. A lot of excellent open-source projects have been built on M2DGR/M2DGE-plus, for examples, [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), DAMS-LIO, [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion),[LINK3d](https://github.com/YungeCui/LinK3D),[i-Octree](https://github.com/zhujun3753/i-octree),[LIO-EKF](https://github.com/YibinWu/LIO-EKF) and so on!
 
 
-## ** News & Updates
 
 
-### 2024.5.16 Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
 
-#### 1. Dataset extension
+## News & Updates
 
-[Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2dDGR-plus)from ICRA2024
 
-#### 2.Calibration:
+- **🔥`2024/05/16`**: Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
+   - **Dataset extension:** [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2dDGR-plus)from ICRA2024
    
-[GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L2023
-
-#### 3. Survey
-
-[Resilient and Distributed Multi-Robot Visual SLAM:
-Datasets, Experiments, and Lessons Learned](https://arxiv.org/pdf/2304.04362) from IROS2023
-
-#### 4. SLAM modules
-
-[LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud](https://arxiv.org/pdf/2206.05927v3) from RA-L2024
-
-[VoxelMap++: Mergeable Voxel Mapping Method
-for Online LiDAR(-inertial) Odometry](https://arxiv.org/pdf/2308.02799) from RA-L2023
-
-### 5. SLAM systems
-[A High-Precision LiDAR-Inertial Odometry via Invariant Extended Kalman Filtering and Efficient Surfel Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10484977) from TIM2024
-
-[mVLINS: A Multilevel Visual-LiDAR-Inertial Navigation System with Completely Decoupled Odometry and Adaptive Environmental Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10457028) from TIV2024
-
-[Fast and Robust LiDAR-Inertial Odometry by Tightly-Coupled Iterated Kalman Smoother and Robocentric Voxels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517905) from TITS2024
-
-[LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments](https://ieeexplore.ieee.org/abstract/document/10404014) from RA-L2024
-
-[LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation](https://arxiv.org/abs/2307.09531) from RA-L2023
-
-
-[Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm) from T-PAMI2022
-
-[Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230) from RA-L2023
+   - **Calibration:** [GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L2023
    
- 
-[DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry](https://arxiv.org/pdf/2302.01703) from ICRA2023
+   
+   - **Survey:** [Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned](https://arxiv.org/pdf/2304.04362) from IROS2023
+   
+   
+   - **SLAM modules:**
+      - [LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud](https://arxiv.org/pdf/2206.05927v3) from RA-L2024
+      - [VoxelMap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry](https://arxiv.org/pdf/2308.02799) from RA-L2023
+   
+   
+   - **SLAM systems:**
+      - [A High-Precision LiDAR-Inertial Odometry via Invariant Extended Kalman Filtering and Efficient Surfel Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10484977) from TIM2024
+   
+      - [mVLINS: A Multilevel Visual-LiDAR-Inertial Navigation System with Completely Decoupled Odometry and Adaptive Environmental Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10457028) from TIV2024
+   
+      - [Fast and Robust LiDAR-Inertial Odometry by Tightly-Coupled Iterated Kalman Smoother and Robocentric Voxels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517905) from TITS2024
+   
+      - [LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments](https://ieeexplore.ieee.org/abstract/document/10404014) from RA-L2024
+   
+      - [LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation](https://arxiv.org/abs/2307.09531) from RA-L2023
+   
+   
+      - [Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm) from T-PAMI2022
+   
+      - [Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230) from RA-L2023
+      
+    
+      - [DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry](https://arxiv.org/pdf/2302.01703) from ICRA2023
 
-### 2024.3.5
+- **⭐️`2024/03/05`**:
 A quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. [Here](https://blog.csdn.net/zardforever123/article/details/129194673) are the configuration files for [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2),[ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3),[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono),[DM-VIO](https://github.com/lukasvst/dm-vio),[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM),[Lego-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM),[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM),[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM),[LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM),[FastLIO2](https://github.com/hku-mars/FAST_LIO),[Fast-LIVO](https://github.com/hku-mars/FAST-LIVO),[Faster-LIO](https://github.com/gaoxiang12/faster-lio) and [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam). Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
-### 2024.2.22 
-New paper has been accepted by ICRA2024! The dataset is [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [Ground-Fusion](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
+- **`2024/02/22`**:
+New paper has been accepted by ICRA2024! The dataset is [**M2DGR-plus**](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [**Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
 
 
 
 
 
-### 2022.6.20  
-
+- **`2022/06/20`**:
 Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**Here**](https://github.com/electech6/LVI-SAM_detailed_comments) is the link of their modified LVI-SAM version.  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
 
-<center>
+
+
+
+<div align=center>
 <img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
-</center>
+</div>
 
-<center>
+<div align=center>
 <img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/street_08_v1.gif" width="70%">
-</center>
+</div>
+<p align="center">>LVI-SAM on M2DGR</p>
 
-<p align="left">LVI-SAM on M2DGR</p>
-
-2022.02.18   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [SJTU-GVI](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star and folk the project if you like it.
+- **`2022/02/18`**:   We have upload a brand new SLAM dataset with GNSS, vision and IMU information. Here is our link [**SJTU-GVI**](https://github.com/sjtuyinjie/SJTU_GVI). Different from M2DGR, new data is captured on a real car and it records GNSS raw measurements with a Ublox ZED-F9P device to facilitate GNSS-SLAM. Give us a star and folk the project if you like it.
 
 
-2022.02.01   Our work has been accepted by ICRA2022!
+- **`2022/02/01`**:   Our work has been accepted by **ICRA2022** and **RA-L2021**!
 
 
 
