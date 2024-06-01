@@ -20,7 +20,7 @@
 
 
 ## Table of Contents
-1. 💎 [News & Updates](#news--updates)
+1. 💎 [**News & Updates**](#news--updates)
 2. [Introduction](#introduction)
    - [Abstract](#abstract)
    - [Main Contributions](#main-contributions)
