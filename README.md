@@ -29,7 +29,7 @@
 7. [Sensor Setup](#sensor-setup)
     - [Acquisition Platform](#acquisition-platform)
     - [Sensor Parameters](#sensor-parameters)
-8. [Dataset Sequences](#dataset-sequences)
+8. ⭐️ [**Dataset Sequences**](#dataset-sequences)
     - [Outdoors](#outdoors)
     - [Indoors](#indoors)
     - [Alternative Indoors and Outdoors](#alternative-indoors-and-outdoors)
