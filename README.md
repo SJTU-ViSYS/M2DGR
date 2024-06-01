@@ -11,7 +11,7 @@
 
 
 
-## NOTICE
+## 🎯 NOTICE
 ### We strongly recommend that the newly proposed SLAM algorithm be tested on our M2DGR / M2DGR-plus benchmark, because our data has following features:
 1. **Rich sensory information** including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. **Various scenarios** in real-world environments including lifts, streets, rooms, halls and so on.
