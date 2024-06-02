@@ -168,6 +168,12 @@ If you face any problem when using this dataset, feel free to propose an issue. 
   year={2021},
   publisher={IEEE}
 }
+@article{yin2024ground,
+  title={Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases},
+  author={Yin, Jie and Li, Ang and Xi, Wei and Yu, Wenxian and Zou, Danping},
+  journal={arXiv preprint arXiv:2402.14308},
+  year={2024}
+}
 ~~~
 
 
