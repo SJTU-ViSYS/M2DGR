@@ -10,6 +10,12 @@
 <p align="center">Figure 1. Sample Images</p>
 
 
+📝 [[Paper]](https://arxiv.org/abs/2112.13659)
+&emsp;
+➡️ [[Dataset Extension]](https://github.com/SJTU-ViSYS/M2DGR-plus)
+&emsp;
+⭐️[[Presentation Video]](https://www.youtube.com/watch?v=73enWUwxJ1k)
+
 
 ## 🎯 NOTICE
 ### We strongly recommend that the newly proposed SLAM algorithm be tested on our M2DGR / M2DGR-plus benchmark, because our data has following features:
