@@ -3,6 +3,14 @@
 
 # M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots （RA-L & ICRA2022）
 ## First Author: [**Jie Yin**](https://github.com/sjtuyinjie?tab=repositories)
+📝 [[Paper]](https://arxiv.org/abs/2112.13659)
+&emsp;
+➡️ [[Dataset Extension]](https://github.com/SJTU-ViSYS/M2DGR-plus)
+&emsp;
+⭐️[[Presentation Video]](https://www.youtube.com/watch?v=73enWUwxJ1k)
+
+
+
 <div align=center>
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.jpg" width="800px">
 
@@ -10,11 +18,6 @@
 <p align="center">Figure 1. Sample Images</p>
 
 
-📝 [[Paper]](https://arxiv.org/abs/2112.13659)
-&emsp;
-➡️ [[Dataset Extension]](https://github.com/SJTU-ViSYS/M2DGR-plus)
-&emsp;
-⭐️[[Presentation Video]](https://www.youtube.com/watch?v=73enWUwxJ1k)
 
 
 ## 🎯 NOTICE
