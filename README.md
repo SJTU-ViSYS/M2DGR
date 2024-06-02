@@ -50,8 +50,7 @@ First Author: [**Jie Yin**](https://github.com/sjtuyinjie?tab=repositories)
     - [Calibration](#calibration)
     - [Getting RINEX Files](#getting-rinex-files)
     - [ROS Drivers for UVC Cameras](#ros-drivers-for-uvc-cameras)
-11. [Future Plans](#future-plans)
-12. [Acknowledgement](#acknowlegement)
+11. [Acknowledgement](#acknowlegement)
 
 
 
@@ -435,10 +434,6 @@ For GNSS based methods like [RTKLIB](http://www.rtklib.com/), we usually need to
 ### ROS drivers for UVC cameras 
 We write a ROS driver for UVC cameras to record our thermal-infrared image. 
 [UVC ROS driver](https://github.com/sjtuyinjie/toolkit/tree/main/thermal_ws/src)
-
-
-## FUTURE PLANS
-In the future, we plan to update and extend our project from time to time, striving to build a comprehensive SLAM benchmark similar to the KITTI dataset for ground robots.
 
 
 ## ACKNOWLEGEMENT
