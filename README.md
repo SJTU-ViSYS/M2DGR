@@ -87,14 +87,14 @@
 A quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. [Here](https://blog.csdn.net/zardforever123/article/details/129194673) are the configuration files for [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2),[ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3),[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono),[DM-VIO](https://github.com/lukasvst/dm-vio),[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM),[Lego-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM),[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM),[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM),[LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM),[FastLIO2](https://github.com/hku-mars/FAST_LIO),[Fast-LIVO](https://github.com/hku-mars/FAST-LIVO),[Faster-LIO](https://github.com/gaoxiang12/faster-lio) and [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam). Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
 - **🚀 `2024/02/22`**:
-New paper has been accepted by ICRA2024! The dataset is [**M2DGR-plus**](https://github.com/SJTU-ViSYS/M2DGR-plus). And the algorithm code is [**Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
+New paper has been accepted by ICRA2024! The dataset is [**M2DGR-plus**](https://github.com/SJTU-ViSYS/M2DGR-plus) and [**Ground-Challenge**](https://github.com/sjtuyinjie/Ground-Challenge). And the algorithm code is [**Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion). The preprint paper is [here](http://arxiv.org/abs/2402.14308).
 
 
 
 
 
 - **⭐️`2022/06/20`**:
-Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. [**Here**](https://github.com/electech6/LVI-SAM_detailed_comments) is the link of their modified LVI-SAM version.  And the configuration files for LVI-SAM on M2DGR are given in [launch file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/module_sam.launch),[camera file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_camera.yaml) and [lidar file](https://github.com/SJTU-ViSYS/M2DGR/blob/main/my_params_lidar.yaml). Feel free to test the demo on your machine!
+Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Check out [**Here**](https://github.com/electech6/LVI-SAM_detailed_comments) for a [**modified LVI-SAM version**] for M2DGR. 
 
 
 
@@ -365,7 +365,9 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://sjtu
 ## CONFIGURATION FILES
 For convenience of evaluation, we provide configuration files of some well-known SLAM systems as below:
 
-[A-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/aloam/aloam_velodyne_HDL_32.launch), [LeGO-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/legoloam/run.launch), [LINS](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/lins/exp_port.yaml), [LIO-SAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/liosam/params.yaml), [VINS-MONO](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/vins/mytest.launch), [ORB-Pinhole](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperd435i.yaml), [ORB-Fisheye](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperleft.yaml), [ORB-Thermal](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperthermal.yaml), and [CUBMAPSLAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/cubemapslam/runCubemapstreet_06.sh)
+[A-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/aloam/aloam_velodyne_HDL_32.launch), [LeGO-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/legoloam/run.launch), [LINS](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/lins/exp_port.yaml), [LIO-SAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/liosam/params.yaml), [VINS-MONO](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/vins/mytest.launch), [ORB-Pinhole](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperd435i.yaml), [ORB-Fisheye](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperleft.yaml), [ORB-Thermal](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperthermal.yaml), and [CUBMAPSLAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/cubemapslam/runCubemapstreet_06.sh).
+
+Furthermore, a quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. [**Here**](https://blog.csdn.net/zardforever123/article/details/129194673) are the configuration files for [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2),[ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3),[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono),[DM-VIO](https://github.com/lukasvst/dm-vio),[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM),[Lego-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM),[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM),[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM),[LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM),[FastLIO2](https://github.com/hku-mars/FAST_LIO),[Fast-LIVO](https://github.com/hku-mars/FAST-LIVO),[Faster-LIO](https://github.com/gaoxiang12/faster-lio) and [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam). Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
 ## DEVELOPEMENT TOOLKIT
 ### Extracting Images
