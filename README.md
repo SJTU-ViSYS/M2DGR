@@ -125,6 +125,11 @@ Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Chec
 
 - **📄 `2022/02/01`**:   The paper has been accepted by both [**RA-L**](https://www.ieee-ras.org/publications/ra-l/) and [**ICRA 2022**](https://icra2022.org/). The paper is provided in [Arxiv version](https://arxiv.org/abs/2112.13659) and [IEEE RA-L version](https://ieeexplore.ieee.org/document/9664374).
 
+> [!NOTE]
+> If you build your open-source project based on M2DGR or test a cutting-edge SLAM system on M2DGR, please write a issue to remind me of updating your contributions.
+
+
+
 ## INTRODUCTION
 
 ### ABSTRACT:
