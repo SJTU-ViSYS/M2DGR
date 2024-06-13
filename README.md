@@ -29,8 +29,6 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 3. Our dataset brings **great challenge** to existing cutting-edge SLAM algorithms including [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) and [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3). If your proposed algorihm outperforms these SOTA systems on our benchmark, your paper will be much more convincing and valuable.
 4. 🔥 Extensive excellent **open-source** projects have been built or evaluated on M2DGR/M2DGE-plus so far, for examples, [**Ground-Fusion**](https://github.com/SJTU-ViSYS/Ground-Fusion), [LVI-SAM-Easyused](https://github.com/Cc19245/LVI-SAM-Easyused), [Log-LIO](https://github.com/tiev-tongji/LOG-LIO), [Swarm-SLAM](https://github.com/MISTLab/Swarm-SLAM), [VoxelMap++](https://github.com/uestc-icsp/VoxelMapPlus_Public), [GRIL-Cali](https://github.com/SJTU-ViSYS/Ground-Fusion), [LINK3d](https://github.com/YungeCui/LinK3D), [i-Octree](https://github.com/zhujun3753/i-octree), [LIO-EKF](https://github.com/YibinWu/LIO-EKF), [Fast-LIO ROS2](https://github.com/Lee-JaeWon/FAST_LIO_ROS2), [HC-LIO](https://github.com/piluohong/hc_lio), [LIO-RF](https://github.com/YJZLuckyBoy/liorf), [PIN-SLAM](https://github.com/PRBonn/PIN_SLAM), [LOG-LIO2](https://github.com/tiev-tongji/LOG-LIO2), [Section-LIO](https://github.com/mengkai98/Section-LIO)and so on!
 
-> [!TIP]
-> Check the table of contents below for an overview
 
 ## Table of Contents
 1. 💎 [**News & Updates**](#news--updates)
@@ -56,6 +54,8 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 11. [Acknowledgement](#acknowlegement)
 
 
+> [!TIP]
+> Check the table of contents above for a quick overview. And check the below news for lateset updates, especially the list of projects based on M2DGR.
 
 
 
