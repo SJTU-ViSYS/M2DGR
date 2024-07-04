@@ -54,6 +54,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
     - [Calibration](#calibration)
     - [Getting RINEX Files](#getting-rinex-files)
     - [ROS Drivers for UVC Cameras](#ros-drivers-for-uvc-cameras)
+11. [Star History](#star-history)
 11. [Acknowledgement](#acknowlegement)
 
 
