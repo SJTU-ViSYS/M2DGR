@@ -67,7 +67,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 
 - **🔥`2024/05/16`**: Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
-   - **Dataset extension:** [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2dDGR-plus)from ICRA2024
+   - **Dataset extension:** [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2DGR-Plus)from ICRA2024
    
    - **Calibration:** [GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L2023
    
