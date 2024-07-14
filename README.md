@@ -5,7 +5,7 @@
 
 <div align="center">
 
-First Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
+💎 First Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
 &emsp;
 📝 [[Paper]](https://arxiv.org/abs/2112.13659)
 &emsp;
@@ -34,7 +34,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 
 ## Table of Contents
-1. 💎 [**News & Updates**](#news--updates)
+1. 🚩 [**News & Updates**](#news--updates)
 2. [Introduction](#introduction)
    - [Abstract](#abstract)
    - [Main Contributions](#main-contributions)
