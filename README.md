@@ -66,6 +66,8 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 ## News & Updates
 
 
+- **`2024/07/15`**: Introducing a list of LiDAR-Visual SLAM systems at [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM): (keep updating)
+
 - **🔥`2024/05/16`**: Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
    - **Dataset extension:** [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2DGR-Plus)from ICRA2024
    
