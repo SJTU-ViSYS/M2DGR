@@ -5,7 +5,7 @@
 
 <div align="center">
 
-💎 First Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
+💎 First Author: [**Jie Yin 殷杰**](https://sjtuyinjie.github.io/)
 &emsp;
 📝 [[Paper]](https://arxiv.org/abs/2112.13659)
 &emsp;
