@@ -84,6 +84,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
    
    - **SLAM systems:**
+      - [MSF-SLAM: Multi-Sensor-Fusion-Based Simultaneous Localization and Mapping for Complex Dynamic Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10682980) from TITS2024
       - [Block-Map-Based Localization in Large-Scale Environment](https://arxiv.org/pdf/2404.18192) from ICRA2024
       - [A High-Precision LiDAR-Inertial Odometry via Invariant Extended Kalman Filtering and Efficient Surfel Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10484977) from TIM2024
       - [I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry](https://arxiv.org/pdf/2407.02190) from IROS2024
