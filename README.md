@@ -13,7 +13,7 @@
 &emsp;
 ⭐️[[Presentation Video]](https://www.youtube.com/watch?v=73enWUwxJ1k)
 &emsp;
-🔥[[Wechat Article]](https://mp.weixin.qq.com/s/w1J7CfEZM9sBaK_Ukj5ogg)
+🔥[[Wechat Article]](https://mp.weixin.qq.com/s/J6872xPeBHaxl39jbsHYxg)
 
 </div>
 
