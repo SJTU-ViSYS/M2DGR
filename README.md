@@ -66,7 +66,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 
 ## News & Updates
-
+- **`2024/10/11`**: Introducing [M2DGR-benchmark](https://github.com/sjtuyinjie/M2DGR-Benchmark), benchmarking SOTA LiDAR-visual SLAM alrogithms on M2FGR-plus.
 
 - **`2024/07/15`**: Introducing a list of LiDAR-Visual SLAM systems at [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM), wheel-based SLAM systems at [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam), and Isaac Sim resources at [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) (keep updating)
 
