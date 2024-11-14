@@ -173,7 +173,7 @@ For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/B
 
 
 ## LICENSE
-This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on 1195391308@qq.com for further communication. 
+This work is licensed under MIT license. International License and is provided for academic purpose. If you are interested in our project for commercial purposes, please contact us on robot_yinjie@outlook.com for further communication. 
 
 If you face any problem when using this dataset, feel free to propose an issue. And if you find our dataset helpful in your research, simply give this project a star. If you use M2DGR in an academic work, please cite:
 ~~~
