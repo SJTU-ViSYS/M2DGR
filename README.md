@@ -21,8 +21,6 @@
 [![Video](https://img.shields.io/badge/Video-red)](https://www.youtube.com/watch?v=73enWUwxJ1k)
 [![News](https://img.shields.io/badge/News-orange)](https://mp.weixin.qq.com/s/J6872xPeBHaxl39jbsHYx)
 
-
-
 </div>
 
 <div align=center>
