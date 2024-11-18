@@ -16,8 +16,8 @@
 🔥[[News]](https://mp.weixin.qq.com/s/J6872xPeBHaxl39jbsHYxg)
 
 [![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
-[![Paper](https://img.shields.io/badge/Paper-GroundFusion-yellow)](https://arxiv.org/abs/2112.13659/)
-[![Dataset](https://img.shields.io/badge/Dataset-M2DGR%2B-green)](https://github.com/SJTU-ViSYS/M2DGR-plus)
+[![Paper](https://img.shields.io/badge/Paper-M2DGR-yellow)](https://arxiv.org/abs/2112.13659/)
+[![Dataset](https://img.shields.io/badge/DatasetExtension-M2DGR+%2B-green)](https://github.com/SJTU-ViSYS/M2DGR-plus)
 [![Video](https://img.shields.io/badge/Video-red)](https://www.youtube.com/watch?v=73enWUwxJ1k)
 [![News](https://img.shields.io/badge/News-orange)](https://mp.weixin.qq.com/s/J6872xPeBHaxl39jbsHYx)
 
