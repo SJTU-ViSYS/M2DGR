@@ -1,7 +1,7 @@
 
 
 
-# M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots （RA-L & ICRA2022）
+# M2DGR： a Multi-modal and Multi-scenario SLAM Dataset for Ground Robots [RA-L & ICRA2022]
 
 <div align="center">
 
