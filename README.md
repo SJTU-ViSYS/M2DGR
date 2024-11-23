@@ -23,6 +23,11 @@
 [![Video](https://img.shields.io/badge/Video-red)](https://www.youtube.com/watch?v=73enWUwxJ1k)
 [![News](https://img.shields.io/badge/News-orange)](https://mp.weixin.qq.com/s/J6872xPeBHaxl39jbsHYx)
 
+[![stars](https://img.shields.io/github/stars/SJTU-ViSYS/M2DGR.svg)](https://github.com/SJTU-ViSYS/M2DGR)
+[![forks](https://img.shields.io/github/forks/SJTU-ViSYS/M2DGR.svg)](https://github.com/SJTU-ViSYS/M2DGR)
+[![open issues](https://img.shields.io/github/issues-raw/SJTU-ViSYS/M2DGR)](https://github.com/SJTU-ViSYS/M2DGR/issues)
+[![issue resolution](https://img.shields.io/github/issues-closed-raw/SJTU-ViSYS/M2DGR)](https://github.com/SJTU-ViSYS/M2DGR/issues)
+
 </div>
 
 <div align=center>
