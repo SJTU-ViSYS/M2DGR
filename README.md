@@ -284,6 +284,10 @@ The rostopics of our rosbag sequences are listed as follows:
 
 **We make public ALL THE SEQUENCES with their GT now.**
 
+
+> [!TIP]
+>  We are delighted to see that many users enjoy our M2DGR dataset. However, **due to an overwhelming number of download requests, OneDrive has become unstable. If you encounter any issues, please wait for about 10 minutes and try again.**
+
 <div align=center>
 
 <img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="600px">
