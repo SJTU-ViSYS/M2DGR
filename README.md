@@ -40,7 +40,7 @@
 
 
 ## 🎯 Notice
-We strongly recommend that the newly proposed SLAM algorithm be tested on our [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) / [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus) / [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) / [SJTU-GVI](https://github.com/sjtuyinjie/SJTU_GVI) benchmark, because our data has following features:
+We strongly recommend that the newly proposed SLAM algorithm be tested on our [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) / [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus) /[M3DGR](https://github.com/sjtuyinjie/M3DGR)/ [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) benchmark, because our data has following features:
 
 1. **Rich sensory information** including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
 2. **Various scenarios** in real-world environments including lifts, streets, rooms, halls and so on.
