@@ -79,6 +79,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 
 ## News & Updates
+- **🔥`2025/06/16`**: Introducing **[Ground-Fusion++](https://github.com/sjtuyinjie/Ground-Fusion2)** and **[M3DGR](https://github.com/sjtuyinjie/M3DGR)**! Our paper "Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework" is accepted to IROS2025!
 - **🔥`2024/10/11`**: Introducing **[M2DGR-benchmark](https://github.com/sjtuyinjie/M2DGR-Benchmark)**, benchmarking newest SOTA LiDAR-visual SLAM alrogithms on both M2DGR and M2DGR-plus!
 
 - **`2024/07/15`**: Introducing a list of LiDAR-Visual SLAM systems at [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM), wheel-based SLAM systems at [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam), and Isaac Sim resources at [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) (keep updating)
@@ -421,7 +422,7 @@ For convenience of evaluation, we provide configuration files of some well-known
 
 Furthermore, a quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. [**Here**](https://blog.csdn.net/zardforever123/article/details/129194673) are the configuration files for [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2), [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3), [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono),[DM-VIO](https://github.com/lukasvst/dm-vio), [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM), [Lego-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM), [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM), [LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM), [FastLIO2](https://github.com/hku-mars/FAST_LIO), [Fast-LIVO](https://github.com/hku-mars/FAST-LIVO), [Faster-LIO](https://github.com/gaoxiang12/faster-lio) and [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam). Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
-## DEVELOPEMENT TOOLKIT
+## Development Toolkits
 ### Extracting Images
 * For rosbag users, first make image view
 ~~~
