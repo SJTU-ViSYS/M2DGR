@@ -79,12 +79,13 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 
 ## News & Updates
-- **🔥`2025/06/16`**: Introducing our new paper on IROS2025:"Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework" is accepted to IROS2025!. code: **[Ground-Fusion++](https://github.com/sjtuyinjie/Ground-Fusion2)**, dataset: **[M3DGR](https://github.com/sjtuyinjie/M3DGR)**! 
+- **🔥`2025/06/16`**: Introducing our new paper on IROS2025:"Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework" is accepted to IROS2025!. code: **[Ground-Fusion++](https://github.com/sjtuyinjie/Ground-Fusion2)**, dataset: **[M3DGR](https://github.com/sjtuyinjie/M3DGR)**!
+- **🏆 `2025/01/08`** M2DGR is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
 - **🔥`2024/10/11`**: Introducing **[M2DGR-benchmark](https://github.com/sjtuyinjie/M2DGR-Benchmark)**, benchmarking newest SOTA LiDAR-visual SLAM alrogithms on both M2DGR and M2DGR-plus!
 
 - **`2024/07/15`**: Introducing a list of LiDAR-Visual SLAM systems at [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM), wheel-based SLAM systems at [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam), and Isaac Sim resources at [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) (keep updating)
 
-- **🔥`2024/05/16`**: Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
+- **`2024/05/16`**: Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
    - **Dataset extension:** [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2DGR-Plus)from ICRA2024
    
    - **Calibration:** [GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L2023
