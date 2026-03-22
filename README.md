@@ -80,7 +80,7 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 ## News & Updates
 
-- **🔥`2026/03/22`**: We are excited to see that M2DGR continues to inspire a growing body of follow-up works. To facilitate tracking the latest developments, we provide a time-sorted list of papers citing M2DGR: **[List](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=8389972487590610075&scipsc=&q=&scisbd=1)**.
+- **🔥`2026/03/22`**: We are excited to see that M2DGR continues to inspire a growing body of follow-up works. To facilitate tracking the latest developments, we provide a time-sorted list of papers citing M2DGR: **[Latest Works Citing M2DGR](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=8389972487590610075&scipsc=&q=&scisbd=1)**.
 
 - **🔥`2025/06/16`**: Introducing our new paper on IROS2025:"Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework" is accepted to IROS2025!. code: **[Ground-Fusion++](https://github.com/sjtuyinjie/Ground-Fusion2)**, dataset: **[M3DGR](https://github.com/sjtuyinjie/M3DGR)**!
 - **🏆 `2025/01/08`** M2DGR is awarded **ESI HIGHLY CITED PAPER (TOP 1%)**!
