@@ -90,43 +90,6 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
 
 - **`2024/07/15`**: Introducing a list of LiDAR-Visual SLAM systems at [awesome-LiDAR-Visual-SLAM](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM), wheel-based SLAM systems at [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam), and Isaac Sim resources at [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) (keep updating)
 
-- **`2024/05/16`**: Introducing a list of excellent projects based on M2DGR dataset: (keep updating)
-   - **Dataset extension:** [Ground-Fusion: A Low-cost Ground SLAM System Robust to Corner Cases](https://github.com/SJTU-ViSYS/Ground-Fusion) (with M2DGR-Plus)from ICRA2024
-   
-   - **Calibration:** [GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration Method using Ground Plane Motion Constraints](https://github.com/Taeyoung96/GRIL-Calib) from RA-L2023
-   
-   
-   - **Survey:** [Resilient and Distributed Multi-Robot Visual SLAM: Datasets, Experiments, and Lessons Learned](https://arxiv.org/pdf/2304.04362) from IROS2023
-   
-   
-   - **SLAM modules:**
-      - [LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud](https://arxiv.org/pdf/2206.05927v3) from RA-L2024
-      - [VoxelMap++: Mergeable Voxel Mapping Method for Online LiDAR(-inertial) Odometry](https://arxiv.org/pdf/2308.02799) from RA-L2023
-
-
-   
-   - **SLAM systems:**
-      - [MSF-SLAM: Multi-Sensor-Fusion-Based Simultaneous Localization and Mapping for Complex Dynamic Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10682980) from TITS2024
-      - [Block-Map-Based Localization in Large-Scale Environment](https://arxiv.org/pdf/2404.18192) from ICRA2024
-      - [A High-Precision LiDAR-Inertial Odometry via Invariant Extended Kalman Filtering and Efficient Surfel Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10484977) from TIM2024
-      - [I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry](https://arxiv.org/pdf/2407.02190) from IROS2024
-      
-      - [mVLINS: A Multilevel Visual-LiDAR-Inertial Navigation System with Completely Decoupled Odometry and Adaptive Environmental Mapping](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10457028) from TIV2024
-   
-      - [Fast and Robust LiDAR-Inertial Odometry by Tightly-Coupled Iterated Kalman Smoother and Robocentric Voxels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10517905) from TITS2024
-   
-      - [LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments](https://ieeexplore.ieee.org/abstract/document/10404014) from RA-L2024
-   
-      - [LOG-LIO: A LiDAR-Inertial Odometry with Efficient Local Geometric Information Estimation](https://arxiv.org/abs/2307.09531) from RA-L2023
-   
-   
-      - [Efficient 3D Deep LiDAR Odometry](https://ieeexplore.ieee.org/abstract/document/9893384?casa_token=nt4pH4Uf4VAAAAAA:MN3ToBfpuxiXf4Q4rHsviWamV3yfkyYhKmMztrQSdec_No80c4Hvtb3ZELI2ym__HXqqd2NM2KGm) from T-PAMI2022
-   
-      - [Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems](https://arxiv.org/pdf/2301.06230) from RA-L2023
-      
-    
-      - [DAMS-LIO: A Degeneration-Aware and Modular Sensor-Fusion LiDAR-inertial Odometry](https://arxiv.org/pdf/2302.01703) from ICRA2023
-
 - **⭐️`2024/03/05`**:
 A quantity of cutting-edge SLAM systems have been tested on M2DGR by lovely users. [Here](https://blog.csdn.net/zardforever123/article/details/129194673) are the configuration files for [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2), [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3), [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono),[DM-VIO](https://github.com/lukasvst/dm-vio), [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM), [Lego-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM), [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM), [LINS](https://github.com/ChaoqinRobotics/LINS---LiDAR-inertial-SLAM), [FastLIO2](https://github.com/hku-mars/FAST_LIO),[Fast-LIVO](https://github.com/hku-mars/FAST-LIVO), [Faster-LIO](https://github.com/gaoxiang12/faster-lio) and [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam). Welcome to test! If you have more configuration files, please contact me and I will post it on this website ~
 
