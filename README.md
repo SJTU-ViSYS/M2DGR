@@ -36,10 +36,15 @@
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
+# 🎯 Notice
+## 2026.10.22: Old download links are not working, I'm uploading these bags to a new onedrive account and will fix this problem as soon as possible!
+
 
 
 
 ## 🎯 Notice
+
+
 We strongly recommend that the newly proposed SLAM algorithm be tested on our [M2DGR](https://github.com/SJTU-ViSYS/M2DGR) / [M2DGR-plus](https://github.com/SJTU-ViSYS/M2DGR-plus) /[M3DGR](https://github.com/sjtuyinjie/M3DGR)/ [Ground-Challenge](https://github.com/sjtuyinjie/Ground-Challenge) benchmark, because our data has following features:
 
 1. **Rich sensory information** including vision, lidar, IMU, GNSS,event, thermal-infrared images and so on
