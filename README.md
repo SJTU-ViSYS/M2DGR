@@ -37,7 +37,7 @@
 <p align="center">Figure 1. Sample Images</p>
 
 # 🎯 Notice
-## 2026.10.22: Old download links are not working, I'm uploading these bags to a new onedrive account and will fix this problem as soon as possible!
+## 2026.10.22: Old download links are not working, I'm uploading these bags to a new onedrive account as soon as possible! We will try to solve this in one or two weeks!
 
 
 
