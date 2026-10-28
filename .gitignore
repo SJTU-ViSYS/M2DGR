@@ -1,3 +1,7 @@
+# Local GT duplicates
+GT (copy)/
+GT (another copy)/
+
 # OneDrive upload tooling (local only)
 scripts/onedrive_*
 dataset_local_mapping.md
