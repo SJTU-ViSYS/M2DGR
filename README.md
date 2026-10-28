@@ -69,14 +69,14 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
     - [Alternative Indoors and Outdoors](#alternative-indoors-and-outdoors)
 9. 📁 [**Repository Layout**](#repository-layout)
 10. 📝 [**Configuration Files**](#configuration-files)
-10. [Development Toolkits](#development-toolkits)
+11. [Development Toolkits](#development-toolkits)
     - [Extracting Images](#extracting-images)
     - [Evaluation](#evaluation)
     - [Calibration](#calibration)
     - [Getting RINEX Files](#getting-rinex-files)
     - [ROS Drivers for UVC Cameras](#ros-drivers-for-uvc-cameras)
-11. [Star History](#star-history)
-11. [Acknowledgement](#acknowlegement)
+12. [Star History](#star-history)
+13. [Acknowledgement](#acknowlegement)
 
 
 > [!TIP]
@@ -448,6 +448,8 @@ evo_ape tum street_07.txt your_result.txt -vp
 ~~~
 
 ### Calibration
+Calibration results for this dataset are provided in [`calib/calibration_results.txt`](calib/calibration_results.txt).
+
 For camera intrinsics,visit [Ocamcalib](http://sites.google.com/site/scarabotix/ocamcalib-toolbox) for omnidirectional model.
 visit [Vins-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) for pinhole and MEI model.
 use [Opencv](https://opencv.org/) for Kannala Brandt model
