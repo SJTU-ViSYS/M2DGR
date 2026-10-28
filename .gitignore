@@ -1,0 +1,13 @@
+# OneDrive upload tooling (local only)
+scripts/onedrive_*
+dataset_local_mapping.md
+dataset_onedrive_links.json
+onedrive_links.json
+onedrive_client_logs/
+update_links.log
+upload*.log
+
+# Python
+scripts/__pycache__/
+__pycache__/
+*.pyc
