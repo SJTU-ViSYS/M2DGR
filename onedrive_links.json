@@ -1,0 +1,155 @@
+[
+  {
+    "readme_name": "lift_04",
+    "local_name": "lift_04",
+    "bag_file": "lift_04.bag",
+    "bag_remote": "M2DGR/sequences/lift_04.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCzf4RlJDuySavz69rbintgAQ9TijMhmK66adGlCGiI17w",
+    "gt_file": "lift_04.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/lift_04.txt"
+  },
+  {
+    "readme_name": "street_06",
+    "local_name": "street_06",
+    "bag_file": "street_06.bag",
+    "bag_remote": "M2DGR/sequences/street_06.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDxaRd_mzchTLbuyYGZLU5ZAamviCxfxp9ClQKj4bM_Od4",
+    "gt_file": "street_06.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/street_06.txt"
+  },
+  {
+    "readme_name": "hall_05",
+    "local_name": "hall_05",
+    "bag_file": "hall_05.bag",
+    "bag_remote": "M2DGR/sequences/hall_05.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQC9pAd7i7cSRaHZ6AG0TNIsAVbHimMAWfnV2QKjlqeHmlM",
+    "gt_file": "hall_05.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/hall_05.txt"
+  },
+  {
+    "readme_name": "door_01",
+    "local_name": "door_01",
+    "bag_file": "door_01.bag",
+    "bag_remote": "M2DGR/sequences/door_01.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBjiP664IuXRZV7SrvnNg3VAe7e-Yw29Leet0voti2zRG0",
+    "gt_file": "door_01.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/door_01.txt"
+  },
+  {
+    "readme_name": "room_dark_06",
+    "local_name": "room_dark_06",
+    "bag_file": "room_dark_06.bag",
+    "bag_remote": "M2DGR/sequences/room_dark_06.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDbLUaiNb2vTITPS9hIwb8AAS1WAWhm4lDhqsJ24ulHys4",
+    "gt_file": "room_dark_06.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/room_dark_06.txt"
+  },
+  {
+    "readme_name": "street_07",
+    "local_name": "street_07",
+    "bag_file": "street_07.bag",
+    "bag_remote": "M2DGR/sequences/street_07.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAwFgbl0s_aQarCUtRs4IOeAZ_1kB_6buyIJBcyHZxdOK8",
+    "gt_file": "street_07.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/street_07.txt"
+  },
+  {
+    "readme_name": "door_02",
+    "local_name": "door_02",
+    "bag_file": "door_02.bag",
+    "bag_remote": "M2DGR/sequences/door_02.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBgBi18HmJxS6b69nemY6qxAR3FYvurL1a9rQ21JCu5uEA",
+    "gt_file": "door_02.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/door_02.txt"
+  },
+  {
+    "readme_name": "room_01",
+    "local_name": "room_01",
+    "bag_file": "room_01.bag",
+    "bag_remote": "M2DGR/sequences/room_01.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQB39IpjQq6wRbVi0lxLp4vqAUQEUQs6SjcEByCj0t9gOlg",
+    "gt_file": "room_01.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/room_01.txt"
+  },
+  {
+    "readme_name": "hall_02",
+    "local_name": "hall_02",
+    "bag_file": "hall_02.bag",
+    "bag_remote": "M2DGR/sequences/hall_02.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDmT1pmLXbmS5qjSXA62sG0AQr1g5NI8-9sio7P5pM75to",
+    "gt_file": "hall_02.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/hall_02.txt"
+  },
+  {
+    "readme_name": "room_02",
+    "local_name": "room_02",
+    "bag_file": "room_02.bag",
+    "bag_remote": "M2DGR/sequences/room_02.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCirPkVnERRS6Ij-56RiBTEAQpmhukrCtxCySKwf9S9jrs",
+    "gt_file": "room_02.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/room_02.txt"
+  },
+  {
+    "readme_name": "gate_01",
+    "local_name": "gate_01",
+    "bag_file": "gate_01.bag",
+    "bag_remote": "M2DGR/sequences/gate_01.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCJ-bCAU-oCQKCGyVUfR94lAZyvNsvenbkCjhgTJ0tN_Ho",
+    "gt_file": "gate_01.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/gate_01.txt"
+  },
+  {
+    "readme_name": "hall_04",
+    "local_name": "hall_04",
+    "bag_file": "hall_04.bag",
+    "bag_remote": "M2DGR/sequences/hall_04.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQA-DigKiamwSK_yiW5ivyRQAcC30Ima7TWaqv5-7ThGArs",
+    "gt_file": "hall_04.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/hall_04.txt"
+  },
+  {
+    "readme_name": "lift_01",
+    "local_name": "lift_01",
+    "bag_file": "lift_01.bag",
+    "bag_remote": "M2DGR/sequences/lift_01.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBLz2QH5mMaRqv1u0eZYiZgAbc7ntA6RwIlfxn-fwtCbIw",
+    "gt_file": "lift_01.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/lift_01.txt"
+  },
+  {
+    "readme_name": "room_dark_01",
+    "local_name": "room_dark_01",
+    "bag_file": "room_dark_01.bag",
+    "bag_remote": "M2DGR/sequences/room_dark_01.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBGVh2J80cvQKIYRHnAV8aTAenPXSY8fiJoGuC3Obur358",
+    "gt_file": "room_dark_01.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/room_dark_01.txt"
+  },
+  {
+    "readme_name": "hall_03",
+    "local_name": "hall_03",
+    "bag_file": "hall_03.bag",
+    "bag_remote": "M2DGR/sequences/hall_03.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDlmHoPphINSK7uKx9Jno87Abk1Y66fT2QUAWSD9yuuVvE",
+    "gt_file": "hall_03.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/hall_03.txt"
+  },
+  {
+    "readme_name": "street_03",
+    "local_name": "street_03",
+    "bag_file": "street_03.bag",
+    "bag_remote": "M2DGR/sequences/street_03.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQA3-gVWJ1LwSajyP0I0FVraAWWeztI93RPDLvkQS91KWiE",
+    "gt_file": "street_03.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/street_03.txt"
+  },
+  {
+    "readme_name": "walk_01",
+    "local_name": "walk_01",
+    "bag_file": "walk_01.bag",
+    "bag_remote": "M2DGR/sequences/walk_01.bag",
+    "rosbag_url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAhKiB8vbD-R7C3q_xbsF2xAeyhsJ8bh_e8HDAgKv7vDxI",
+    "gt_file": "walk_01.txt",
+    "gt_url": "https://github.com/SJTU-ViSYS/M2DGR/tree/main/GT/walk_01.txt"
+  }
+]

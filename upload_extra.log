@@ -1,0 +1,200 @@
+bash: /home/yinjie/anaconda3/envs/phc/lib/libtinfo.so.6: no version information available (required by bash)
+==> start Sat Oct 24 02:00:50 PM CST 2026
+upload queue: 20 files
+  upload static2.bag (1.02 GB) -> Ground-Challenge/static2.bag
+  upload room2.bag (1.28 GB) -> Ground-Challenge/room2.bag
+  upload room3.bag (1.37 GB) -> Ground-Challenge/room3.bag
+  upload office3.bag (1.44 GB) -> Ground-Challenge/office3.bag
+  upload roughroad2.bag (1.44 GB) -> Ground-Challenge/roughroad2.bag
+  upload rotation1.bag (1.46 GB) -> Ground-Challenge/rotation1.bag
+  upload static1.bag (1.53 GB) -> Ground-Challenge/static1.bag
+  upload rotation3.bag (1.58 GB) -> Ground-Challenge/rotation3.bag
+  upload room1.bag (1.60 GB) -> Ground-Challenge/room1.bag
+  upload wall1.bag (1.62 GB) -> Ground-Challenge/wall1.bag
+  upload roughroad3.bag (1.64 GB) -> Ground-Challenge/roughroad3.bag
+  upload wall3.bag (1.80 GB) -> Ground-Challenge/wall3.bag
+  upload wall2.bag (1.83 GB) -> Ground-Challenge/wall2.bag
+  upload rotation2.bag (1.99 GB) -> Ground-Challenge/rotation2.bag
+  upload roughroad1.bag (2.07 GB) -> Ground-Challenge/roughroad1.bag
+  upload slope1.bag (2.58 GB) -> Ground-Challenge/slope1.bag
+  upload slope2.bag (2.67 GB) -> Ground-Challenge/slope2.bag
+  upload street2.bag (3.67 GB) -> M2DGR-plus/street2.bag
+  upload tree3.bag (4.85 GB) -> M2DGR-plus/tree3.bag
+  upload switch2.bag (8.85 GB) -> M2DGR-plus/switch2.bag
+link M2DGR-plus/anomaly.bag
+Traceback (most recent call last):
+  File "<stdin>", line 111, in <module>
+  File "<stdin>", line 27, in link
+  File "<stdin>", line 16, in rclone
+RuntimeError: Error: unknown flag: --link-type
+Usage:
+  rclone link remote:path [flags]
+
+Flags:
+      --expire Duration   The amount of time that the link will be valid (default off)
+  -h, --help              help for link
+      --unlink            Remove existing public link to file/folder
+
+Use "rclone [command] --help" for more information about a command.
+Use "rclone help flags" for to see the global flags.
+Use "rclone help backends" for a list of supported services.
+
+2026/10/24 22:14:45 NOTICE: Fatal error: unknown flag: --link-type
+ound-Challenge/roughroad3.bag
+  upload wall3.bag (1.80 GB) -> Ground-Challenge/wall3.bag
+  upload wall2.bag (1.83 GB) -> Ground-Challenge/wall2.bag
+  upload rotation2.bag (1.99 GB) -> Ground-Challenge/rotation2.bag
+  upload roughroad1.bag (2.07 GB) -> Ground-Challenge/roughroad1.bag
+  upload slope1.bag (2.58 GB) -> Ground-Challenge/slope1.bag
+  upload slope2.bag (2.67 GB) -> Ground-Challenge/slope2.bag
+  upload street2.bag (3.67 GB) -> M2DGR-plus/street2.bag
+  upload tree3.bag (4.85 GB) -> M2DGR-plus/tree3.bag
+  upload switch2.bag (8.85 GB) -> M2DGR-plus/switch2.bag
+link M2DGR-plus/anomaly.bag
+Traceback (most recent call last):
+  File "<stdin>", line 111, in <module>
+  File "<stdin>", line 27, in link
+  File "<stdin>", line 16, in rclone
+RuntimeError: Error: unknown flag: --link-type
+Usage:
+  rclone link remote:path [flags]
+
+Flags:
+      --expire Duration   The amount of time that the link will be valid (default off)
+  -h, --help              help for link
+      --unlink            Remove existing public link to file/folder
+
+Use "rclone [command] --help" for more information about a command.
+Use "rclone help flags" for to see the global flags.
+Use "rclone help backends" for a list of supported services.
+
+2026/10/24 22:14:45 NOTICE: Fatal error: unknown flag: --link-type
+bash: /home/yinjie/anaconda3/envs/phc/lib/libtinfo.so.6: no version information available (required by bash)
+==> start Sat Oct 24 10:23:40 PM CST 2026
+==> start Sat Oct 24 10:23:40 PM CST 2026
+upload queue: 5 files
+  upload office1.bag (1.24 GB) -> Ground-Challenge/office1.bag
+  upload street1.bag (1.60 GB) -> M2DGR-plus/street1.bag
+  upload office2.bag (1.75 GB) -> Ground-Challenge/office2.bag
+  upload occlusion3.bag (2.43 GB) -> Ground-Challenge/occlusion3.bag
+  upload bridge2.bag (14.92 GB) -> M2DGR-plus/bridge2.bag
+upload done, updating links...
+upload queue: 5 files
+  upload office1.bag (1.24 GB) -> Ground-Challenge/office1.bag
+  upload street1.bag (1.60 GB) -> M2DGR-plus/street1.bag
+  upload office2.bag (1.75 GB) -> Ground-Challenge/office2.bag
+  upload occlusion3.bag (2.43 GB) -> Ground-Challenge/occlusion3.bag
+  upload bridge2.bag (14.92 GB) -> M2DGR-plus/bridge2.bag
+upload done, updating links...
+dir link M2DGR-plus
+link M2DGR-plus/anomaly.bag
+link M2DGR-plus/switch2.bag
+link M2DGR-plus/tree3.bag
+link M2DGR-plus/bridge1.bag
+link M2DGR-plus/bridge2.bag
+  updated README Bridge_02
+link M2DGR-plus/street1.bag
+  updated README Street_01
+link M2DGR-plus/street2.bag
+link M2DGR-plus/parking1.bag
+link M2DGR-plus/parking2.bag
+link M2DGR-plus/building1.bag
+link M2DGR-plus/building2.bag
+dir link Ground-Challenge
+link Ground-Challenge/corridor1.bag
+link Ground-Challenge/corridor2.bag
+link Ground-Challenge/darkroom1.bag
+link Ground-Challenge/darkroom2.bag
+link Ground-Challenge/darkroom3.bag
+link Ground-Challenge/hall1.bag
+link Ground-Challenge/hall2.bag
+link Ground-Challenge/hall3.bag
+link Ground-Challenge/loop1.bag
+link Ground-Challenge/loop2.bag
+link Ground-Challenge/motionblur1.bag
+link Ground-Challenge/motionblur2.bag
+link Ground-Challenge/motionblur3.bag
+link Ground-Challenge/occlusion1.bag
+link Ground-Challenge/occlusion2.bag
+link Ground-Challenge/occlusion3.bag
+link Ground-Challenge/occlusion4.bag
+link Ground-Challenge/office1.bag
+link Ground-Challenge/office2.bag
+link Ground-Challenge/office3.bag
+link Ground-Challenge/room1.bag
+link Ground-Challenge/room2.bag
+link Ground-Challenge/room3.bag
+link Ground-Challenge/rotation1.bag
+link Ground-Challenge/rotation2.bag
+link Ground-Challenge/rotation3.bag
+link Ground-Challenge/roughroad1.bag
+link Ground-Challenge/roughroad2.bag
+link Ground-Challenge/roughroad3.bag
+link Ground-Challenge/slope1.bag
+link Ground-Challenge/slope2.bag
+link Ground-Challenge/static1.bag
+link Ground-Challenge/static2.bag
+link Ground-Challenge/wall1.bag
+link Ground-Challenge/wall2.bag
+link Ground-Challenge/wall3.bag
+updated 2 README links
+  M2DGR-plus:Bridge_02
+  M2DGR-plus:Street_01
+dir link M2DGR-plus
+link M2DGR-plus/anomaly.bag
+link M2DGR-plus/switch2.bag
+link M2DGR-plus/tree3.bag
+link M2DGR-plus/bridge1.bag
+link M2DGR-plus/bridge2.bag
+  updated README Bridge_02
+link M2DGR-plus/street1.bag
+  updated README Street_01
+link M2DGR-plus/street2.bag
+link M2DGR-plus/parking1.bag
+link M2DGR-plus/parking2.bag
+link M2DGR-plus/building1.bag
+link M2DGR-plus/building2.bag
+dir link Ground-Challenge
+link Ground-Challenge/corridor1.bag
+link Ground-Challenge/corridor2.bag
+link Ground-Challenge/darkroom1.bag
+link Ground-Challenge/darkroom2.bag
+link Ground-Challenge/darkroom3.bag
+link Ground-Challenge/hall1.bag
+link Ground-Challenge/hall2.bag
+link Ground-Challenge/hall3.bag
+link Ground-Challenge/loop1.bag
+link Ground-Challenge/loop2.bag
+link Ground-Challenge/motionblur1.bag
+link Ground-Challenge/motionblur2.bag
+link Ground-Challenge/motionblur3.bag
+link Ground-Challenge/occlusion1.bag
+link Ground-Challenge/occlusion2.bag
+link Ground-Challenge/occlusion3.bag
+link Ground-Challenge/occlusion4.bag
+link Ground-Challenge/office1.bag
+link Ground-Challenge/office2.bag
+link Ground-Challenge/office3.bag
+link Ground-Challenge/room1.bag
+link Ground-Challenge/room2.bag
+link Ground-Challenge/room3.bag
+link Ground-Challenge/rotation1.bag
+link Ground-Challenge/rotation2.bag
+link Ground-Challenge/rotation3.bag
+link Ground-Challenge/roughroad1.bag
+link Ground-Challenge/roughroad2.bag
+link Ground-Challenge/roughroad3.bag
+link Ground-Challenge/slope1.bag
+link Ground-Challenge/slope2.bag
+link Ground-Challenge/static1.bag
+link Ground-Challenge/static2.bag
+link Ground-Challenge/wall1.bag
+link Ground-Challenge/wall2.bag
+link Ground-Challenge/wall3.bag
+updated 2 README links
+  M2DGR-plus:Bridge_02
+  M2DGR-plus:Street_01
+done
+done
+==> end Sun Oct 25 01:17:49 AM CST 2026
+==> end Sun Oct 25 01:17:49 AM CST 2026

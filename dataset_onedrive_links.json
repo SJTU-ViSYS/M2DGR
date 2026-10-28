@@ -1,0 +1,292 @@
+{
+  "M2DGR-plus": [
+    {
+      "readme_name": "Anomaly",
+      "bag_name": "anomaly.bag",
+      "remote_path": "M2DGR-plus/anomaly.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQC-KoWvkh0NT7V12tAWcyGlAUcUHkZRZ8HJaF8J6kAh1N0"
+    },
+    {
+      "readme_name": "Switch",
+      "bag_name": "switch2.bag",
+      "remote_path": "M2DGR-plus/switch2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAdc2KVj-PzSo4EcR4b1flsARtUYaBZdEVBUKegYoQtzUM"
+    },
+    {
+      "readme_name": "Tree",
+      "bag_name": "tree3.bag",
+      "remote_path": "M2DGR-plus/tree3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQA407J1NVpgSqU9zmaKJrk6AeMHUdA6aHbo8CNQ6mmMdSs"
+    },
+    {
+      "readme_name": "Bridge_01",
+      "bag_name": "bridge1.bag",
+      "remote_path": "M2DGR-plus/bridge1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDdFQfEot1XSqjNsz4fWDyfAUh4D8uHva0zqVijXkVX3w0"
+    },
+    {
+      "readme_name": "Bridge_02",
+      "bag_name": "bridge2.bag",
+      "remote_path": "M2DGR-plus/bridge2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDHZdYqIFuJQo9F0lR6vW2KAWhfGKBgGjvupcoHD5TZllQ"
+    },
+    {
+      "readme_name": "Street_01",
+      "bag_name": "street1.bag",
+      "remote_path": "M2DGR-plus/street1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBxubA5ovV2R5FTigikL-eiAQ3VDJGciUb8As7QkOonxnQ"
+    },
+    {
+      "readme_name": "Street_02",
+      "bag_name": "street2.bag",
+      "remote_path": "M2DGR-plus/street2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAk0n0z7h_ySIGJq0R-YaipAXnohi43QX6t9sgCEFSBPr0"
+    },
+    {
+      "readme_name": "Parking_01",
+      "bag_name": "parking1.bag",
+      "remote_path": "M2DGR-plus/parking1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBRFnnvpm3sS5lBZip3-x4uASP2EQvjV0-OGJwLAJ42sH4"
+    },
+    {
+      "readme_name": "Parking_02",
+      "bag_name": "parking2.bag",
+      "remote_path": "M2DGR-plus/parking2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAhTMmKB7dLToycd0Lb9MRnARhH8zr7yGBUnU8QSzSShYE"
+    },
+    {
+      "readme_name": "Building_01",
+      "bag_name": "building1.bag",
+      "remote_path": "M2DGR-plus/building1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAvmKpCF1QjR72F60sLo1D6Ac7416mm-qqLyncudY_Nmis"
+    },
+    {
+      "readme_name": "Building_02",
+      "bag_name": "building2.bag",
+      "remote_path": "M2DGR-plus/building2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCQHTje0q4mTZgoWby-gCpDAbCtocWpVffhgb1iDOi13Zc"
+    }
+  ],
+  "_dirs": {
+    "M2DGR-plus": "https://1drv.ms/f/c/3e825cd7abd6dff7/IgA-FgQBneUGRo_Br_gA10yJAWWAFPBeg1PERT8hSGyIVrs",
+    "Ground-Challenge": "https://1drv.ms/f/c/3e825cd7abd6dff7/IgBuFgfBxC8YTIaWp725ix-JAfT8JU6fpqAp_n13fTWwLrk"
+  },
+  "Ground-Challenge": [
+    {
+      "readme_name": "Corridor1",
+      "bag_name": "corridor1.bag",
+      "remote_path": "Ground-Challenge/corridor1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDYxV-Cptc8QKUkZn9OtVzKAR9FHdXvnYZ6rdN77OPPJck"
+    },
+    {
+      "readme_name": "Corridor2",
+      "bag_name": "corridor2.bag",
+      "remote_path": "Ground-Challenge/corridor2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAl3XN5QSm5RpRpyHYIjSyCAQ6Qs9xXV1H34wg5TzEmSTU"
+    },
+    {
+      "readme_name": "Darkroom1",
+      "bag_name": "darkroom1.bag",
+      "remote_path": "Ground-Challenge/darkroom1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQC2MTfIbAONRaGy71QIgsooAfhjWWnh4Q3boOtnyiRCUlo"
+    },
+    {
+      "readme_name": "Darkroom2",
+      "bag_name": "darkroom2.bag",
+      "remote_path": "Ground-Challenge/darkroom2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAIEKMFqFTtQKCJXQYpB5OMAazpuqVW_NdHaQUt6rHU69c"
+    },
+    {
+      "readme_name": "Darkroom3",
+      "bag_name": "darkroom3.bag",
+      "remote_path": "Ground-Challenge/darkroom3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAfDJWhS7SxTYVxsQaS-kfOAZS2nHWCD-_o6n1A8T6jHMg"
+    },
+    {
+      "readme_name": "Hall1",
+      "bag_name": "hall1.bag",
+      "remote_path": "Ground-Challenge/hall1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQD62M3UkWpCQqE77hpGZVIjAfbj0XRoFMB2DQ_cyMuksTQ"
+    },
+    {
+      "readme_name": "Hall2",
+      "bag_name": "hall2.bag",
+      "remote_path": "Ground-Challenge/hall2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQC-V6TdecllSYrstrd0Dth0ASepmzEpChCw1Hykzi1FRwA"
+    },
+    {
+      "readme_name": "Hall3",
+      "bag_name": "hall3.bag",
+      "remote_path": "Ground-Challenge/hall3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBHWsqGE7OYToAyl984TJLkAQ6DB3lYWZxaBjAFMyzyeKE"
+    },
+    {
+      "readme_name": "Loop1",
+      "bag_name": "loop1.bag",
+      "remote_path": "Ground-Challenge/loop1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDlRBxZj4wVRrM-44LWJ91iAdaLITGph_0LofkY_YlDnr4"
+    },
+    {
+      "readme_name": "Loop2",
+      "bag_name": "loop2.bag",
+      "remote_path": "Ground-Challenge/loop2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBErkhiuVEWSrA8xUWrRPzKAe7jrD5zAmGnzXqwVMU8VFQ"
+    },
+    {
+      "readme_name": "Motionblur1",
+      "bag_name": "motionblur1.bag",
+      "remote_path": "Ground-Challenge/motionblur1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCftiAFvxfDTKVUpV2W5aHtAZIkZmuv9ObPrqv-hcNY-nE"
+    },
+    {
+      "readme_name": "Motionblur2",
+      "bag_name": "motionblur2.bag",
+      "remote_path": "Ground-Challenge/motionblur2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBMOdY529TuTJOcjTgYCY56ATRJA9IadYYm6MwsgQM_bfY"
+    },
+    {
+      "readme_name": "Motionblur3",
+      "bag_name": "motionblur3.bag",
+      "remote_path": "Ground-Challenge/motionblur3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDQzIwB-OWzTrK4nhQde3vEAQcM65rEYgcO-yeZYCjF_ug"
+    },
+    {
+      "readme_name": "Occlusion1",
+      "bag_name": "occlusion1.bag",
+      "remote_path": "Ground-Challenge/occlusion1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBjRY3c9IVYTLs5rSfpyz5kAaddxsMAMrQEgenSsJvipbA"
+    },
+    {
+      "readme_name": "Occlusion2",
+      "bag_name": "occlusion2.bag",
+      "remote_path": "Ground-Challenge/occlusion2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQC_Vo0XSGjgTKX6EfOS_PfCAVUJ4Uq6DnEvzh7BCWRbGDU"
+    },
+    {
+      "readme_name": "Occlusion3",
+      "bag_name": "occlusion3.bag",
+      "remote_path": "Ground-Challenge/occlusion3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBStx3KDTQlR7A7v7tKntRiAWqEPF76NrC4SDfo13WsHiU"
+    },
+    {
+      "readme_name": "Occlusion4",
+      "bag_name": "occlusion4.bag",
+      "remote_path": "Ground-Challenge/occlusion4.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDUr9DIrBuSSpg9zPOv9RxSARhg-6Cp0Arnz3__ejiGQMA"
+    },
+    {
+      "readme_name": "Office1",
+      "bag_name": "office1.bag",
+      "remote_path": "Ground-Challenge/office1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDW3RxVKWXOTpgLT7ktemmOAbKu9G8LamGbszjbqaaDBNE"
+    },
+    {
+      "readme_name": "Office2",
+      "bag_name": "office2.bag",
+      "remote_path": "Ground-Challenge/office2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAleR-j9HRFQo3h7Fm54g3OAU5NiUmbmwPJzKR7ri0LKuw"
+    },
+    {
+      "readme_name": "Office3",
+      "bag_name": "office3.bag",
+      "remote_path": "Ground-Challenge/office3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDMBdp0LkpiSY4y2UjxJQuJARJGH09ZzcQr3SgneV5Z_hg"
+    },
+    {
+      "readme_name": "Room1",
+      "bag_name": "room1.bag",
+      "remote_path": "Ground-Challenge/room1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAd9JwOGGjHTYDni0WA6hKzAa1x_MLUmVtWS9hzx9NoT4Y"
+    },
+    {
+      "readme_name": "Room2",
+      "bag_name": "room2.bag",
+      "remote_path": "Ground-Challenge/room2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAmNtOLZ39wS6B5CRWFP2l2AWXjk1Fr3E4cPhoLirPflao"
+    },
+    {
+      "readme_name": "Room3",
+      "bag_name": "room3.bag",
+      "remote_path": "Ground-Challenge/room3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCsz4XIdmk1QYO0RCKpKa1uAVmoUQlF434IXq0CXR5AJoQ"
+    },
+    {
+      "readme_name": "Rotation1",
+      "bag_name": "rotation1.bag",
+      "remote_path": "Ground-Challenge/rotation1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQD_lr84n-MeS6DVpPt5ZphUAQwEW_cGyfRK0gAz___zNJ4"
+    },
+    {
+      "readme_name": "Rotation2",
+      "bag_name": "rotation2.bag",
+      "remote_path": "Ground-Challenge/rotation2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQB9U46R3sPwQZEBvATnoDyzAc6AhKEt8FWDmEEoUwXKr6A"
+    },
+    {
+      "readme_name": "Rotation3",
+      "bag_name": "rotation3.bag",
+      "remote_path": "Ground-Challenge/rotation3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCwjFbYikUHQ4UQoECtsNPLAeHp3CnBsIb7QGvhnLEPlZA"
+    },
+    {
+      "readme_name": "Roughroad1",
+      "bag_name": "roughroad1.bag",
+      "remote_path": "Ground-Challenge/roughroad1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQB2msNgCwkrQ7AORAx0r1cVAX4FD-t7rba83qk4wvnAMdI"
+    },
+    {
+      "readme_name": "Roughroad2",
+      "bag_name": "roughroad2.bag",
+      "remote_path": "Ground-Challenge/roughroad2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAzj-iyYwXuS7IHeWugC0LxAX14V8l50iTXOVskvTMBluU"
+    },
+    {
+      "readme_name": "Roughroad3",
+      "bag_name": "roughroad3.bag",
+      "remote_path": "Ground-Challenge/roughroad3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQAyhpoEHXwnTpPcGGnPqqYTAfaHSGYA_wREaymkfHo7U-0"
+    },
+    {
+      "readme_name": "Slope1",
+      "bag_name": "slope1.bag",
+      "remote_path": "Ground-Challenge/slope1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQBVfM3W5dtkSKUBaLbnL6jYAZQnZjSwhzPJBA7q6J-vQsw"
+    },
+    {
+      "readme_name": "Slope2",
+      "bag_name": "slope2.bag",
+      "remote_path": "Ground-Challenge/slope2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCE5GrE2LOuSpv3ULlUbADKAZ2xiQoAVn6Uv425vo7tXtI"
+    },
+    {
+      "readme_name": "Static1",
+      "bag_name": "static1.bag",
+      "remote_path": "Ground-Challenge/static1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQD1ABndUkJbSo5Gyqj0eQwuAY_ZYHqyh7lQiXJUnXjpp-Y"
+    },
+    {
+      "readme_name": "Static2",
+      "bag_name": "static2.bag",
+      "remote_path": "Ground-Challenge/static2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQCQL4uodEh4Q4HWKT_jg12JAaR-614CEUpa-hR4wZPRK3c"
+    },
+    {
+      "readme_name": "Wall1",
+      "bag_name": "wall1.bag",
+      "remote_path": "Ground-Challenge/wall1.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQDKve3xsYopQpKidMTIex4xAbDZgKPuZYzgPSOrK-OoR1E"
+    },
+    {
+      "readme_name": "Wall2",
+      "bag_name": "wall2.bag",
+      "remote_path": "Ground-Challenge/wall2.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQC89yOO642pQY5OT9doSr54AUmzeOc5_h6J0jgElde1dkw"
+    },
+    {
+      "readme_name": "Wall3",
+      "bag_name": "wall3.bag",
+      "remote_path": "Ground-Challenge/wall3.bag",
+      "url": "https://1drv.ms/u/c/3e825cd7abd6dff7/IQChYfWZh62FS4yqIr-Dh0bGAV-hwid4Q7GOwNwZgWckbeo"
+    }
+  ]
+}
