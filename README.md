@@ -297,7 +297,7 @@ Ground Truth  |RTK/INS |RTK/INS |RTK/INS |RTK/INS |Leica |Leica |Leica |Mocap|Mo
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
-gate_01|2021-07-31|16.4g|172s|dark,around gate|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_01.txt)
+gate_01|2021-07-31|16.4g|172s|dark,around gate|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCJ-bCAU-oCQKCGyVUfR94lAZyvNsvenbkCjhgTJ0tN_Ho)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_01.txt)
 gate_02|2021-07-31|27.3g|327s|dark,loop back|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_02.txt)
 gate_03|2021-08-04|21.9g|283s|day|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_03.txt)
 
@@ -347,7 +347,7 @@ lift_04|2021-08-15|27.8g|299s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 hall_01|2021-08-01|29.1g|351s|randon walk|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/hall_01.txt)
-hall_02|2021-08-08|15.0g|128s|randon walk|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/hall_02.txt)
+hall_02|2021-08-08|15.0g|128s|randon walk|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDmT1pmLXbmS5qjSXA62sG0AQr1g5NI8-9sio7P5pM75to)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/hall_02.txt)
 hall_03|2021-08-08|20.5g|164s|randon walk|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/hall_03.txt)
 hall_04|2021-08-15|17.7g|181s|randon walk|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/hall_04.txt)
 hall_05|2021-08-15|35.1g|402s|circle|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQC9pAd7i7cSRaHZ6AG0TNIsAVbHimMAWfnV2QKjlqeHmlM)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/hall_05.txt)
@@ -362,8 +362,8 @@ hall_05|2021-08-15|35.1g|402s|circle|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6df
   
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
-room_01|2021-07-30|14.0g|72s|room,bright|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_01.txt)
-room_02|2021-07-30|15.2g|75s|room,bright|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_02.txt)
+room_01|2021-07-30|14.0g|72s|room,bright|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQB39IpjQq6wRbVi0lxLp4vqAUQEUQs6SjcEByCj0t9gOlg)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_01.txt)
+room_02|2021-07-30|15.2g|75s|room,bright|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCirPkVnERRS6Ij-56RiBTEAQpmhukrCtxCySKwf9S9jrs)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_02.txt)
 room_03|2021-07-30|26.1g|128s|room,bright|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_03.txt)
 room_dark_01|2021-07-30|20.2g|111s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_01.txt)
 room_dark_02|2021-07-30|30.3g|165s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_02.txt)
@@ -389,7 +389,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825c
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBjiP664IuXRZV7SrvnNg3VAe7e-Yw29Leet0voti2zRG0)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/door_01.txt)
-door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/door_02.txt)
+door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBgBi18HmJxS6b69nemY6qxAR3FYvurL1a9rQ21JCu5uEA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/door_02.txt)
 
 </div>
 
