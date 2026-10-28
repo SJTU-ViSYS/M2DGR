@@ -67,7 +67,8 @@ We strongly recommend that the newly proposed SLAM algorithm be tested on our [M
     - [Outdoors](#outdoors)
     - [Indoors](#indoors)
     - [Alternative Indoors and Outdoors](#alternative-indoors-and-outdoors)
-9. 📝 [**Configuration Files**](#configuration-files)
+9. 📁 [**Repository Layout**](#repository-layout)
+10. 📝 [**Configuration Files**](#configuration-files)
 10. [Development Toolkits](#development-toolkits)
     - [Extracting Images](#extracting-images)
     - [Evaluation](#evaluation)
@@ -145,11 +146,11 @@ Keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 
 ### VIDEO
-[![ICRA2022 Presentation](cover.png)](https://www.youtube.com/watch?v=73enWUwxJ1k)
+[![ICRA2022 Presentation](docs/cover.png)](https://www.youtube.com/watch?v=73enWUwxJ1k)
 
 
 
-For Chinese users, try [![bilibili](cover.png)](https://www.bilibili.com/video/BV1q3411G7iF/)
+For Chinese users, try [![bilibili](docs/cover.png)](https://www.bilibili.com/video/BV1q3411G7iF/)
 
 
 
@@ -394,8 +395,19 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://1drv
 </div>
 
 
+## Repository Layout
+
+| Path | Description |
+|------|-------------|
+| [`GT/`](GT/) | Ground-truth trajectories (TUM format) for all 36 sequences |
+| [`config/`](config/) | Example SLAM launch and parameter files for M2DGR sensors |
+| [`calib/`](calib/) | Sensor calibration results |
+| [`docs/`](docs/) | Paper PDF and presentation thumbnail |
+
 ## CONFIGURATION FILES
-For convenience of evaluation, we provide configuration files of some well-known SLAM systems as below:
+Example launch/parameter files shipped with this repo: [`config/module_sam.launch`](config/module_sam.launch), [`config/my_params_camera.yaml`](config/my_params_camera.yaml), [`config/my_params_lidar.yaml`](config/my_params_lidar.yaml).
+
+For convenience of evaluation, we also link configuration files of some well-known SLAM systems as below:
 
 [A-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/aloam/aloam_velodyne_HDL_32.launch), [LeGO-LOAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/legoloam/run.launch), [LINS](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/lins/exp_port.yaml), [LIO-SAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/liosam/params.yaml), [VINS-MONO](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/vins/mytest.launch), [ORB-Pinhole](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperd435i.yaml), [ORB-Fisheye](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperleft.yaml), [ORB-Thermal](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/orb3/paperthermal.yaml), and [CUBMAPSLAM](https://github.com/sjtuyinjie/toolkit/blob/main/config_files/cubemapslam/runCubemapstreet_06.sh).
 
