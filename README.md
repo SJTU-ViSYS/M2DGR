@@ -31,7 +31,7 @@
 </div>
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/bigsix.jpg" width="800px">
+<img src="docs/images/bigsix.jpg" width="800px">
 
 </div>
 <p align="center">Figure 1. Sample Images</p>
@@ -113,11 +113,11 @@ Thanks Jialin Liu (Fudan University) for his work to test LVI-SAM on M2DGR. Chec
 
 
 <div align=center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/gate_01_v1.gif" width="70%">
+<img src="docs/images/gate_01_v1.gif" width="70%">
 </div>
 
 <div align=center>
-<img src="https://github.com/shuttworth/Record_Datasets_For_LVI-SAM/blob/main/img/street_08_v1.gif" width="70%">
+<img src="docs/images/street_08_v1.gif" width="70%">
 </div>
 <p align="center">>LVI-SAM on M2DGR</p>
 
@@ -191,7 +191,7 @@ If you face any problem when using this dataset, feel free to propose an issue. 
 Physical drawings and schematics of the ground robot is given below. The unit of the figures is centimeter.
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/newcar4.png" width="800px">
+<img src="docs/images/newcar4.png" width="800px">
 </div>
 
 <p align="left">Figure 2. The GAEA Ground Robot Equipped with a Full Sensor Suite.The directions of the sensors are marked in different colors,red for X,green for Y and blue for Z.</p>
@@ -271,7 +271,7 @@ The rostopics of our rosbag sequences are listed as follows:
 
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/dynamic.gif" width="600px">
+<img src="https://raw.githubusercontent.com/sjtuyinjie/mypics/main/dynamic.gif" width="600px">
 </div>
 
 <p align="left">Figure 3. A sample video with fish-eye image(both forward-looking and sky-pointing),perspective image,thermal-infrared image,event image and lidar odometry</p>
@@ -291,7 +291,7 @@ Ground Truth  |RTK/INS |RTK/INS |RTK/INS |RTK/INS |Leica |Leica |Leica |Mocap|Mo
 ### Outdoors
 
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/outdoor.png" width="600px">
+<img src="docs/images/outdoor.png" width="600px">
 <p align="center">Figure 4. Outdoor Sequences:all trajectories are mapped in different colors.</p>
   
 
@@ -327,7 +327,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://1drv.ms/u/c/3
 ### Indoors
 <div align=center>
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/lift.jpg" width="600px">
+<img src="docs/images/lift.jpg" width="600px">
 
 <p align="left">Figure 5. Lift Sequences:The robot hang around a hall on the first floor and then went to the second floor by lift.A laser scanner track the trajectory outside the lift</p>
   
@@ -357,7 +357,7 @@ hall_05|2021-08-15|35.1g|402s|circle|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6df
 
 
 
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/room.png" width="600px">
+<img src="docs/images/room.png" width="600px">
 
 <p align="center">Figure 6. Room Sequences:under a Motion-capture system with twelve cameras.</p>
   
@@ -383,7 +383,7 @@ room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825c
 ### Alternative indoors and outdoors
   
 <div align=center>
-<img src="https://github.com/sjtuyinjie/mypics/blob/main/forgithub/door.jpg" width="600px">
+<img src="docs/images/door.jpg" width="600px">
 <p align="center">Figure 7. Door Sequences:A laser scanner track the robot through a door from indoors to outdoors.</p>
 
 
@@ -402,7 +402,7 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Rosbag](https://1drv
 | [`GT/`](GT/) | Ground-truth trajectories (TUM format) for all 36 sequences |
 | [`config/`](config/) | Example SLAM launch and parameter files for M2DGR sensors |
 | [`calib/`](calib/) | Sensor calibration results |
-| [`docs/`](docs/) | Paper PDF and presentation thumbnail |
+| [`docs/`](docs/) | Paper PDF, figures (`docs/images/`), and presentation thumbnail |
 
 ## CONFIGURATION FILES
 Example launch/parameter files shipped with this repo: [`config/module_sam.launch`](config/module_sam.launch), [`config/my_params_camera.yaml`](config/my_params_camera.yaml), [`config/my_params_lidar.yaml`](config/my_params_lidar.yaml).
