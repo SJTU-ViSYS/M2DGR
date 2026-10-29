@@ -300,12 +300,12 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 gate_01|2021-07-31|16.4g|172s|dark,around gate|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCJ-bCAU-oCQKCGyVUfR94lAZyvNsvenbkCjhgTJ0tN_Ho)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_01.txt)
 gate_02|2021-07-31|27.3g|327s|dark,loop back|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_02.txt)
-gate_03|2021-08-04|21.9g|283s|day|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_03.txt)
+gate_03|2021-08-04|21.9g|283s|day|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCtnH1M6LTTSpFVtuLWX6lwAZgZU20N2bKAj0MbXGOwxa0)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/gate_03.txt)
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
-Circle_01|2021-08-03|23.3g|234s|Circle|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/rotation_01.txt)
+Circle_01|2021-08-03|23.3g|234s|Circle|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDsIbCXZ6IQSodDl-UJnonXAfvvgk_WZ-3m7KDU46lXze0)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/rotation_01.txt)
 Circle_02|2021-08-07|27.3g|244s|Circle|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/rotation_02.txt)
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
@@ -338,7 +338,7 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 lift_01|2021-08-04|18.4g|225s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBLz2QH5mMaRqv1u0eZYiZgAbc7ntA6RwIlfxn-fwtCbIw)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_01.txt)
 lift_02|2021-08-04|43.6g|488s|lift|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_02.txt)
-lift_03|2021-08-15|22.3g|252s|lift|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_03.txt)
+lift_03|2021-08-15|22.3g|252s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDYeeL2tkkARpzKlx7CxXe9AWIz58SgZuhMLfIyO7sa9d8)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_03.txt)
 lift_04|2021-08-15|27.8g|299s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCzf4RlJDuySavz69rbintgAQ9TijMhmK66adGlCGiI17w)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_04.txt)
 
   
@@ -368,7 +368,7 @@ room_02|2021-07-30|15.2g|75s|room,bright|[Rosbag](https://1drv.ms/u/c/3e825cd7ab
 room_03|2021-07-30|26.1g|128s|room,bright|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_03.txt)
 room_dark_01|2021-07-30|20.2g|111s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBGVh2J80cvQKIYRHnAV8aTAenPXSY8fiJoGuC3Obur358)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_01.txt)
 room_dark_02|2021-07-30|30.3g|165s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_02.txt)
-room_dark_03|2021-07-30|22.7g|116s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_03.txt)
+room_dark_03|2021-07-30|22.7g|116s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCfhDX6lIfzRan9FheV-2juATfxNoWrANTwGmRCEGjnacU)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_03.txt)
 room_dark_04|2021-08-15|29.3g|143s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_04.txt)
 room_dark_05|2021-08-15|33.0g|159s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_05.txt)
 room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDbLUaiNb2vTITPS9hIwb8AAS1WAWhm4lDhqsJ24ulHys4)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_06.txt)
