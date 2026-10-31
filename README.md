@@ -313,7 +313,7 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_01.txt)
 street_02|2021-08-03|83.2g|1227s|day,long-term|*Uploading (link within ~1 week)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_02.txt)
 street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQA3-gVWJ1LwSajyP0I0FVraAWWeztI93RPDLvkQS91KWiE)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_03.txt)
-street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_04.txt)
+street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQABbQzm6mTXTLA84ONHs4PTAUllbTfGypi5-XU0SIf_zYA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_04.txt)
 street_05|2021-08-04|27.4g|469s|night,staight line|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQC1j9mLc_F_Qbp742hz07zjARPiRazd-t5EyIRiGaXBSsk)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_05.txt)
 street_06|2021-08-04|35.0g|494s|night,one turn|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDxaRd_mzchTLbuyYGZLU5ZAamviCxfxp9ClQKj4bM_Od4)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_06.txt)
 street_07|2021-08-06|77.2g|929s|dawn,zigzag,sharp turns|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQAwFgbl0s_aQarCUtRs4IOeAZ_1kB_6buyIJBcyHZxdOK8)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_07.txt)
@@ -337,7 +337,7 @@ walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://1drv.ms/u/c/3
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 lift_01|2021-08-04|18.4g|225s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBLz2QH5mMaRqv1u0eZYiZgAbc7ntA6RwIlfxn-fwtCbIw)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_01.txt)
-lift_02|2021-08-04|43.6g|488s|lift|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_02.txt)
+lift_02|2021-08-04|43.6g|488s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBISWgfUFX3TJOOQqwRkfY7ATm7coO2qDB3JRZrozJYhgQ)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_02.txt)
 lift_03|2021-08-15|22.3g|252s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDYeeL2tkkARpzKlx7CxXe9AWIz58SgZuhMLfIyO7sa9d8)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_03.txt)
 lift_04|2021-08-15|27.8g|299s|lift|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCzf4RlJDuySavz69rbintgAQ9TijMhmK66adGlCGiI17w)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/lift_04.txt)
 
