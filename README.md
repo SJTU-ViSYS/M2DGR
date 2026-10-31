@@ -317,7 +317,7 @@ street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|*Uploading (link wit
 street_05|2021-08-04|27.4g|469s|night,staight line|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQC1j9mLc_F_Qbp742hz07zjARPiRazd-t5EyIRiGaXBSsk)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_05.txt)
 street_06|2021-08-04|35.0g|494s|night,one turn|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDxaRd_mzchTLbuyYGZLU5ZAamviCxfxp9ClQKj4bM_Od4)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_06.txt)
 street_07|2021-08-06|77.2g|929s|dawn,zigzag,sharp turns|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQAwFgbl0s_aQarCUtRs4IOeAZ_1kB_6buyIJBcyHZxdOK8)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_07.txt)
-street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_08.txt)
+street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBC0j7qAdSNSJw6pMxfQt6hAQQ08ZmYxQ85fu3v5U2xl_0)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_08.txt)
 street_09|2021-08-07|83.2g|907s|day,zigzag|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_09.txt)
 street_010|2021-08-07|86.2g|910s|day,zigzag|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_10.txt)
 walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQAhKiB8vbD-R7C3q_xbsF2xAeyhsJ8bh_e8HDAgKv7vDxI)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/walk_01.txt)
@@ -370,7 +370,7 @@ room_dark_01|2021-07-30|20.2g|111s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825c
 room_dark_02|2021-07-30|30.3g|165s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQA-y476TI66RqXjeyKM0fBxAUe20BcADOl5U6rN1g13BS0)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_02.txt)
 room_dark_03|2021-07-30|22.7g|116s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCfhDX6lIfzRan9FheV-2juATfxNoWrANTwGmRCEGjnacU)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_03.txt)
 room_dark_04|2021-08-15|29.3g|143s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDjxZsOEFp8QJAv0LBPUMKmAXUeEy8vwbMXwqVBJFjRRhA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_04.txt)
-room_dark_05|2021-08-15|33.0g|159s|room,dark|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_05.txt)
+room_dark_05|2021-08-15|33.0g|159s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCViYaIhKMIS6H1wVhFpkfhAUtGmKaRaIZgQUR2vrK3sWA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_05.txt)
 room_dark_06|2021-08-15|35.6g|172s|room,dark|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDbLUaiNb2vTITPS9hIwb8AAS1WAWhm4lDhqsJ24ulHys4)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/room_dark_06.txt)
 </div>
 
