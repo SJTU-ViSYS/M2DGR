@@ -36,12 +36,6 @@
 </div>
 <p align="center">Figure 1. Sample Images</p>
 
-# 🎯 Notice
-## 2026.10.22: Old download links are not working, I'm uploading these bags to a new onedrive account as soon as possible! We will try to solve this in one or two weeks!
-
-
-
-
 ## 🎯 Notice
 
 
@@ -311,15 +305,15 @@ Circle_02|2021-08-07|27.3g|244s|Circle|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
 street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCZ6i0_n1UqT7B0d7vfaagGAX78_dvyjPLLadlH1SdBHMM)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_01.txt)
-street_02|2021-08-03|83.2g|1227s|day,long-term|*Uploading (link within ~1 week)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_02.txt)
+street_02|2021-08-03|83.2g|1227s|day,long-term|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBSf52fMpCBSpuOy8stZs57AaAZ_TcmghvIdaGRzUUfAjA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_02.txt)
 street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQA3-gVWJ1LwSajyP0I0FVraAWWeztI93RPDLvkQS91KWiE)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_03.txt)
 street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQABbQzm6mTXTLA84ONHs4PTAUllbTfGypi5-XU0SIf_zYA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_04.txt)
 street_05|2021-08-04|27.4g|469s|night,staight line|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQC1j9mLc_F_Qbp742hz07zjARPiRazd-t5EyIRiGaXBSsk)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_05.txt)
 street_06|2021-08-04|35.0g|494s|night,one turn|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQDxaRd_mzchTLbuyYGZLU5ZAamviCxfxp9ClQKj4bM_Od4)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_06.txt)
 street_07|2021-08-06|77.2g|929s|dawn,zigzag,sharp turns|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQAwFgbl0s_aQarCUtRs4IOeAZ_1kB_6buyIJBcyHZxdOK8)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_07.txt)
 street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQBC0j7qAdSNSJw6pMxfQt6hAQQ08ZmYxQ85fu3v5U2xl_0)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_08.txt)
-street_09|2021-08-07|83.2g|907s|day,zigzag|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_09.txt)
-street_010|2021-08-07|86.2g|910s|day,zigzag|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_10.txt)
+street_09|2021-08-07|83.2g|907s|day,zigzag|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQD8o42ik8ZlS7r-wpAJDd6wAVbtOxsMoo_nbFOG_0EAiHg)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_09.txt)
+street_010|2021-08-07|86.2g|910s|day,zigzag|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQB-_dFfIWZLS5WHXjSJAkL0AX45hXx5tf7uXtWvCdRGkTQ)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_10.txt)
 walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQAhKiB8vbD-R7C3q_xbsF2xAeyhsJ8bh_e8HDAgKv7vDxI)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/walk_01.txt)
 </div>
 
