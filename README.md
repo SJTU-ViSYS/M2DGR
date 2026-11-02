@@ -310,7 +310,7 @@ Circle_02|2021-08-07|27.3g|244s|Circle|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6
 
 Sequence Name|Collection Date|Total Size|Duration|Features|Rosbag|GT
 --|:--|:--:|--:|--:|--:|--:
-street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|*Uploading (link within ~1–2 weeks)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_01.txt)
+street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQCZ6i0_n1UqT7B0d7vfaagGAX78_dvyjPLLadlH1SdBHMM)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_01.txt)
 street_02|2021-08-03|83.2g|1227s|day,long-term|*Uploading (link within ~1 week)*|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_02.txt)
 street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQA3-gVWJ1LwSajyP0I0FVraAWWeztI93RPDLvkQS91KWiE)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_03.txt)
 street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|[Rosbag](https://1drv.ms/u/c/3e825cd7abd6dff7/IQABbQzm6mTXTLA84ONHs4PTAUllbTfGypi5-XU0SIf_zYA)|[GT](https://github.com/SJTU-ViSYS/M2DGR/blob/main/GT/street_04.txt)
